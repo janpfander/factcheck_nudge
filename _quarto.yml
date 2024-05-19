@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Fact-checking Nudge"
+  
+  sidebar:
+    logo: "images/book_cover.png"
+    pinned: true
+    align: center
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - about.qmd
+      - section: part_1/index.qmd
+        contents: 
+          - part_1/biases-and-blunders.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
