@@ -1,0 +1,33 @@
+---
+title: 6 Save More Tomorrow
+bibliography: ../references.bib
+---
+
+# Can saving strategies solve retirement problems?
+
+::: author
+By: Sarah & Clémence
+:::
+
+::: highlight-quote
+“Americans would be better able to deal with this problem if they were saving more on their own” (p.103).
+:::
+
+In this part “Saves more tomorrow”, the author discusses challenges in retirement savings for Americans and proposes solutions to encourage participation in saving plans. Therefore, he claimed that “Americans would be better able to deal with this problem if they were saving more on their own” (p.103). What if solving Social Security's problems was the way to help Americans save? Social Security in the US is a government program that provides financial assistance to disabled, retired, or unemployed individuals and their families. It's funded through payroll taxes and gives benefits such as retirement income and disability payments. Those payroll taxes are known as FICA (federal insurance contributions Act), both employees and employers pay a percentage of their wages in social security. The current social security tax is 6,2% for employees and 6.2% for employers. To determine the benefits, you will get when retired, social security takes your top 35 years of earnings adjusted to inflation. In 2020, the average retired worker gets around 1500 dollars a month from social security. Moreover, Gallup research shows that some 57% of retirees say that social security is a major source of their income in retirement. For over 30 years it was full of cash. But since 2010, the payroll taxes haven’t been enough to cover benefit payments because of the retirement of the baby boomers and the fact that people live longer now. So currently social security pays more in benefits than it receives in revenues. The problem is that Americans think that social security will be able to pay a benefit once they are eligible according to \[\@ Barry Bosworth, Gary Burtless\]” THE AMERICAN SOCIAL SECURITY SYSTEM does not have enough resources to pay for all benefits promised under current law”. Therefore, the author in this part focuses on the ways to encourage Americans to save but it would be better to start by solving the social security system.\
+Some solutions proposed by [@CNBC, how social security works] to fix social security: -”Increased the payroll taxes” -”Increase the wages base that payroll taxes are applied to” -”Subject earnings to a higher cap or even all earnings to the payroll tax rate” -”Flat reduction in benefits” -”Increase the retirement age”
+
+# Do employees throw away retirement money?
+
+::: author
+By: Ambre, Fitia, Eric & Andriana
+:::
+
+::: highlight-quote
+“One extreme example comes from the United Kingdom, where some defined-benefit plans do not require any employee contributions and are fully paid for by the employer. They do require employees to take action to join the plan. Data on twenty-five such plans reveal that scarcely half of the eligible employees (51 percent) signed up! 4 This is equivalent to not bothering to cash your paycheck.” (p.108)
+:::
+
+We can actually explain this better with multiple arguments according to [@Theinvestopediateam,MelodyBell,MichaelRoseston.2024]
+
+-   First of all, most employers switched to defined-contribution plans (DC) instead of defined-benefit plans (DB) because they were less costly for the employer and presented less risks. In fact, in a DB, the employee has no control over the benefits and the result is very uncertain, which can deter them from signing up.
+-   Secondly, when enrolled in a DB, employees struggle to change jobs while keeping their benefits because they are directly linked to their employer by that plan. Changing jobs would compromise the benefits of their DB.
+-   Thirdly, DB plans are hard to put in place in small firms and there are federal regulations on the number of DB that can be attributed to employees. And last but not least, DB plans are not accessible to everybody. For example, in the US, only 25% of employees have access to them and most of those employees are in the public sector [@CongressionalResearchService.2022]. Even though most of the 25% of employees who have access to defined-benefit plans do participate, the global participation rate is relatively low. Therefore one of the major point why people don’t enroll in DB is likely because they can’t access them. So, overall, not enrolling in a DB is not like “not bothering to cash a paycheck” and can not be explained by just a lack of will. There are risks and limits to this type of plan.

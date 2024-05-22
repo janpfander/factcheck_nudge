@@ -1,0 +1,14 @@
+---
+title: The Real Third Way
+bibliography: ../references.bib
+---
+
+# Some title
+
+::: author
+By: Author
+:::
+
+::: highlight-quote
+“Some quote” (p.XX)
+:::

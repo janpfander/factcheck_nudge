@@ -1,0 +1,38 @@
+---
+title: 7 Naïve Investing
+bibliography: ../references.bib
+---
+
+# People invest in mutual funds
+
+::: author
+Gaspard & Lou-Anne
+:::
+
+::: highlight-quote
+“In retirement accounts, most investors do not choose stocks individually but rather invest via mutual funds." (p.119)
+:::
+
+- It’s actually true. 
+- It’s hard to find actual numbers as the number of people investing in mutual funds fluctuate with the market and as it exists many mutual funds. However, authors agree on their popularity. 
+- Also, we can find numbers on a specific kind of investment, for example, according to the federal reserve, 36% of retirement savings come at least from IRA which is a mutual fund. At first place, with 55% comes defined contribution plans which are retirement plans where the employer, employee, or both make regular contributions of specified amounts. Many popular plans are defined contribution plans, such as the 401(k), 457, and 403(b) plans. Mutual funds are the most common investment option offered in 401(k) plans. 
+- "Mutual funds are the cornerstone of retirement savings in the United States. Their hands-off approach to investment management and their built-in diversification have made them a popular choice among retirement investors."
+
+# People invest in mutual funds
+
+::: author
+Guilhem & Anouk
+:::
+
+::: highlight-quote
+“Expect Error
+To help those who would not get it together to join, we encourage automatic enrollment, which we would combine with Save More Tomorrow to help people achieve an adequate savings rate. For those who did not invest in a life-cycle fund, we would recommend offering an automatic rebalancing plan so that a participant’s asset allocation would be adjusted over time” (p.130)
+:::
+
+Auto-enrollment and auto-escalation are among the most ingenious and elegant i-frame interventions in any domain. Yet their impact has been disappointing, despite often being seen as
+the major success story for behavioral public policy. David Laibson, once a leading advocate of i-frame solutions, concluded in a 2020 keynote that neither auto-enrollment nor auto-escalation have moved the needle on retirement saving.
+
+First, even without auto-enrollment, many employees end up enrolling in the firms’ retirement plans; auto-enrollment only slightly accelerates the process (Choi, Laibson, Madrian, & Metrick, 2004). Second, and more significant, is the problem of “leakage” (Argento, Bryant, & Sabelhaus, 2015): Employees often remove funds from retirement savings accounts, for example, when changing jobs, or borrow at low interest rates using their retirement balances as loan collateral. Third, auto-enrollment cannot help the many workers at companies which don’t offer matches or provide no plan at all. Surtout les petites entreprises https://fr.kamiltaylan.blog/erisa/#Considerations_particulieres “ERISA's complex rules discourage some small business owners from creating retirement accounts for their employees.”
+
+
+

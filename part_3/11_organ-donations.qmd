@@ -1,0 +1,16 @@
+---
+title: 11 How to Increase Organ Donations
+bibliography: ../references.bib
+---
+
+# Some title
+
+::: author
+By: Adèle
+:::
+
+::: highlight-quote
+“each donor can be used for as many as three organs, getting another thousand donors could save as many as three thousand lives”(p.176)
+:::
+
+Since Dr. Johnny C. Hong, an internationally recognized multi-organ transplanter [@johnnyc] we can donate up to many as 8 organs (<https://pennstatehealthnews.org/2024/04/the-medical-minute-six-organ-donation-facts-knock-down-six-myths/>). It is the same information we can find through national organ donations organizations\^\[France: <https://ffdsb.org/comprendre-les-autres-dons/don-de-tissus-et-dorganes/>; United States: <https://www.cdc.gov/transplant-safety/about/?CDC_AAref_Val=https://www.cdc.gov/transplantsafety/overview/key-facts.html>; WHO: <https://www.who.int/health-topics/transplantation#tab=tab_1>\]. A diseased organ donor can indeed give kidney(2), liver, heart, lung(2), pancreas and small intestine. Following his deduction we with thousand donors we could save as many as three eight thousand lives.

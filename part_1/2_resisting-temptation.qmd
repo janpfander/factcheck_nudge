@@ -1,0 +1,23 @@
+---
+title: 2 Resisting Temptation
+bibliography: ../references.bib
+---
+
+# People don't eat Popcorn endlessly
+
+::: author
+By: Sophia & Marion
+:::
+
+::: highlight-quote
+“A few years ago, Brian Wansink and his colleagues ran an experiment in a Chicago movie theater in which moviegoers found themselves with a free bucket of stale popcorn? (It had been popped five days earlier and stored so as to ensure that it would actually squeak when eaten.) People were not specifically informed of its staleness, but they didn't like the popcorn. As one moviegoer said, "It was like eating Styrofoam packing peanuts." In the experiment, half of the moviegoers received a big bucket of popcorn and half received a medium-sized bucket. On average, recipients of the big bucket ate about 53 percent more popcorn-even though they didn't really like it. After the movie, Wansink asked the recipients of the big bucket whether they might have eaten more because of the size of their bucket. Most denied the pos-sibility, saying, "Things like that don't trick me." But they were wrong.”  (p.43)
+:::
+
+- In his study Wansink doesn’t specify what effect was produced by the fact that popcorn was free
+- Several studies of Wansink have been retracted and Wanink was accused of p-hacking. In the study about popcorn one of the reference article is “Super Bowls: Serving Bowl Size and Food Consumption” that has been retracted due to several reasons: investigation by company/institution, investigation by journal/publisher, misconduct, official Investigation/finding, misconduct by author, unreliable data, unreliable results, upgrade/update of prior notice.More than 40 works of Wansick were retracted.
+- Errors were discovered in six other articles published by members of the Cornell Food and Brand Lab. 
+Seventeen other articles authored or co-authored by Wansink have been retracted.
+
+  In September 2018, Cornell determined that Wansink had committed scientific misconduct and removed him from all teaching and research positions; he was only allowed to assist in investigations of his published work. He also resigned from the university, effective June 30, 2019.
+
+

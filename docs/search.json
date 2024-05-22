@@ -44,7 +44,7 @@
     "href": "index.html",
     "title": "Fact-checking Nudge",
     "section": "",
-    "text": "It’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub. This is very new and incredibly cool. This tutorial is an example of a quarto website — it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.",
+    "text": "This is the project website for the 2024 class “Critical thinking and fact-checking” of the undergraduate program “Sciences pour un Monde Durable” at PSL University, Paris.\nWe fact-checked the book:\n\nThaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving decisions about health, wealth, and happiness. Yale University Press.\n\n\n\n\nBook Cover\n\n\nThe book has been been highly influential. According to its publishing house, it sold more than 2 million copies. It, arguably, paved the way for behavioral public policy.\nA second–or in the words of the authors, a “final”–edition has been published in 2021. We fact-checked the original, first publication of 2008.\nPick a chapter and see what we found!",
     "crumbs": [
       "Welcome"
     ]
@@ -54,7 +54,7 @@
     "href": "index.html#welcome",
     "title": "Fact-checking Nudge",
     "section": "",
-    "text": "It’s possible to create beautiful documentation to share online with Quarto that auto-updates with GitHub. This is very new and incredibly cool. This tutorial is an example of a quarto website — it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.",
+    "text": "This is the project website for the 2024 class “Critical thinking and fact-checking” of the undergraduate program “Sciences pour un Monde Durable” at PSL University, Paris.\nWe fact-checked the book:\n\nThaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving decisions about health, wealth, and happiness. Yale University Press.\n\n\n\n\nBook Cover\n\n\nThe book has been been highly influential. According to its publishing house, it sold more than 2 million copies. It, arguably, paved the way for behavioral public policy.\nA second–or in the words of the authors, a “final”–edition has been published in 2021. We fact-checked the original, first publication of 2008.\nPick a chapter and see what we found!",
     "crumbs": [
       "Welcome"
     ]
@@ -64,10 +64,295 @@
     "href": "part_1/biases-and-blunders.html",
     "title": "Biases and Blunders",
     "section": "",
-    "text": "“Half the students in a class are given coffee mugs with the insignia of their home university embossed on it. The students who do not get a mug are asked to examine their neighbor’s mugs. Then mug owners are invited to sell their mugs and nonowners are invited to buy them. They do so by answering the question “At each of the following prices, indicate whether you would be willing to (give up your mug/buy a mug).” The results show that those with mugs demand roughly twice as much to give up their mugs as others are willing to pay to get one.”(p.33)\nSiblot (2006)\nI wanted to fact check the strongness of the experiment described above. The author mentioned the names of Kahneman, Knetsch, and Thaler (1991). After checking their articles and studies, I realized that their work was quoted more than 6 000 times in articles about Gain and Losses.\n\n\n\n\nReferences\n\nSiblot, Yasmine. 2006. “« Je suis la secrétaire de la famille ! » La prise en charge féminine des tâches administratives entre subordination et ressource.” Genèses 64 (3): 46–66. https://doi.org/10.3917/gen.064.0046.",
+    "text": "“Half the students in a class are given coffee mugs with the insignia of their home university embossed on it. The students who do not get a mug are asked to examine their neighbor’s mugs. Then mug owners are invited to sell their mugs and nonowners are invited to buy them. They do so by answering the question “At each of the following prices, indicate whether you would be willing to (give up your mug/buy a mug).” The results show that those with mugs demand roughly twice as much to give up their mugs as others are willing to pay to get one.” (p.33)",
     "crumbs": [
       "I HUMANS AND ECONS",
       "Biases and Blunders"
+    ]
+  },
+  {
+    "objectID": "part_1/resisting-temptation.html",
+    "href": "part_1/resisting-temptation.html",
+    "title": "Resisting-temptation",
+    "section": "",
+    "text": "Paying endlessly for subscriptions\n\nBy: Ariane\n\n\n“Free subscriptions seem like a bargain, even if the magazines rarely get read, so Sunstein happily made his choices. What he didn’t realize was that unless he took some action to cancel his subscription, he would continue to receive the magazines, paying for them at the normal rate. For about a decade, he has continued to subscribe to magazines that he hardly ever reads. (…) One of the causes of status quo bias is a lack of attention. Many people adopt what we will call the “yeah, whatever” heuristic.” (p.35)\n\nThe example of the subscription to a payable newspaper is not working in all situations because of the socioeconomic dimension of it. This reasoning works only for people who have a comfortable way of life, who can pay for a newspaper they even don’t read, who don’t take the time to check where money goes and so on. In all this part of the book, the author makes an abstraction of the socioeconomic constraints which modulate the status quo bias.\nSeveral studies observe the effect of the status quo bias on different cases. One of them is about the influence of social capital : the greater you have, the more you are in a situation where you can exchange information, learn and revise your practices in front of a status quo bias.\nHowever, we can consider the status quo bias as a powerful nudge, but we have to keep in mind that it works for the people that are in the middle of the population.\n\n\nDo gay men underestimate AIDS risk?\n\nBy: Taïna\n\n\n“Gay men systematically underestimate the chance that they will contract AIDS, even though they know about AIDS risks in general” (p.XX)\n\n\nonly data are about : Health Optimism (α = 0.791) and Transmission Optimism (α = 0.795)\ntechnical knowledge, experience, desire, and attitudes to risk may all affect how people respond and often in multiple, sometimes contradictory, directions.\nHIV optimism should be complemented by analysis of the complexities of individuals’ assessments of both risk and pleasure in specific sexual contexts.\n\n[study of n=122 men] No effect on unrealistic optimism was found. It seems that the cognitive account provides a better explanation than does the motivational account of at least that form of UO measured in this study. Implications for AIDS education are discussed.",
+    "crumbs": [
+      "I HUMANS AND ECONS",
+      "Resisting-temptation"
+    ]
+  },
+  {
+    "objectID": "part_1/3_following-the-herd.html",
+    "href": "part_1/3_following-the-herd.html",
+    "title": "3 Following the Herd",
+    "section": "",
+    "text": "Jim Jones and the People’s Temple\n\nBy: Jules\n\n\n“The Reverend Jim Jones was the founder and leader of the People’s Temple. In 1978 Jones, facing charges of tax evasion, moved most of his one thousand followers from San Francisco to a small settlement in Guyana, which he named Jonestown. Facing a federal investigation for reported acts of child abuse and torture, Jones decided that his followers should poison their children and then themselves. They prepared vats of poison. A few people resisted; a few others shouted out their protest, but they were silenced. Following Jones’s orders, and the social pressures imposed by one another, mothers and fathers duly poisoned their children. Then they poisoned themselves. Their bodies were found arm in arm, lying together.” (p.51)\n\nA few pieces of information aren’t very clear : - Firstly, Jones and his followers had a tax audit during summer 1977, and decided just after to move to the place they will name Jonestown. They were already settled there in 1978, when in november, Leo Rayan, a representative of California, was sent by the government to investigate following complaints lodged by relatives of members of the People’s Temple, concerning living conditions potentially infringing human rights. - Apparently, several of the victims were forced at gunpoint to absorb the poison mixed with a synthetic drink called ‘kool aid’, and poured into a bathtub from which everyone drew. What’s more, some mothers administered the poison to their babies themselves. - Fanatics of the sect fired some people who didn’t want to apply the “pact of death” they signed during the adhesion to the “Temple”. - They didn’t all die, approximately 80 managed to survive, escaping in the Jungle. - Jones was found dead, a bullet in the head.\nIn conclusion, they were not all killed by social influence but also by coercion, some were forced to commit suicide by armed threats, and others who refused were shot dead.\n\n\nWe don’t like songs only because others like them\n\nBy: Adèle\n\n\n“The identical song could be a hit or a failure simply because other people, at the start, were seen to choose to have downloaded it or not” (p.62)\n\nThis citation is implying that people will like a song only because other people liked it, we will go through the veracity of this claim:\n\nHe based his sentence on a study : “Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market ’’. However, he overacted the study, in fact the author mentioned « In general, the best songs never do very badly, and the worst songs never do extremely well, but almost any other result is possible.” [CITATION MISSING]\nThere are many other reasons why people like some songs more than others, and why they come to like them in the first place. An example are rhythm features: A lot of studies state a correlation between the rhythm features and the popularity of songs (Nijkamp, n.d.; Kim 2021). These two studies showed that they seem to be rhythm preferences shared by a lot of people, which could be an explanation of why we love the same song and also contradict the statement that identical songs could be a hit or a failure only regarding if people have downloaded it.\n\n\n\nCommunism because of pluralistic ignorance?\n\nBy: Lou-Anne\n\n\n“An important problem here is “pluralistic ignorance”—that is, ignorance, on the part of all or most, about what other people think. We may follow a practice or a tradition not because we like it, or even think it de- fensible, but merely because we think that most other people like it. Many social practices persist for this reason, and a small shock, or nudge, can dislodge them.6 A dramatic example is communism in the former Soviet bloc, which lasted in part because people were unaware how many people despised the regime. (p.59)”\n\nThe last sentence, in its construction, isn’t really clear, and could be interpreted in several ways. But mostly, what it suggests to the reader is that communism in Soviet Union was despised by a large majority of the population, for a long time (“lasted”) and that people were unaware of others’ feelings about it.\nSo, is pluralistic ignorance really one of the reasons why communism, in the Soviet Union, lasted so long? First, let’s see the broad reasons why communism and the Soviet Union ended.\n\neconomical reasons : By the end of the 1980’s, the economy had deteriorated, with large budget debts and food and consumer goods shortages.\npolitical reasons : Mikhail Gorbachev became leader of the USSR on 11 March 1985, and established the policy of glasnost, which is free speech. The control of the press was relaxed and thousands of dissidents were released from prison. Glasnost had the effect of opening the whole Soviet system up to criticism. Here,it brings the hypothesis that people were not necessarily unaware that others didn’t like the regime but instead were scared because criticism was punished. It would explain both the fact that people were not showing their disagreement and so were not explicitly perceiving the one of others and the fact that communism lasted so long. → In March 1990 the Communist Party’s monopoly of power was removed from the Soviet Constitution.\n\nThen, is there a study that establishes a link between pluralistic ignorance and the support of communism ? Is there a study that establishes that people despised the regime?\n\nIn a 2016 survey, conducted by the Levada Center which is a Russian independent, nongovernmental polling and sociological research organization. Russian people think that the main reasons for the collapse of USSR, were first “Yeltsin, Kravchuk, and Shushkevich’s irresponsible and unjustified Belovezha “conspiracy”” (29%), then “a conspiracy between foreign powers hostile to the USSR” (23%), “the people’s dissatisfaction with the country’s leadership, M. Gorbachev and his associates” only comes third with 21%. Moreover, the actual despising of communism (“The complete exhaustion of communist ideology”) comes sixth with 13%. We precise that people were allowed to select multiple responses.\nBy showing the actual perception of the Soviet Union and its collapse, this survey doesn’t clearly support or even goes against the claim that the despising of communism ideology was shared by a majority of the population.\nFinally, the author doesn’t base their claim on any study establishing the existence of pluralistic ignorance in the Soviet Union.\n\n→ We’re not able to determine if communism in the Soviet Union lasted because of pluralistic ignorance, as it is difficult to establish how many people despised the regime and the real impact of pluralistic ignorance compared to other factors, for example political or economical reasons.\n\n\nDo teenagers get pregnant from looking at other teenagers?\n\nBy: Esther\n\n\n“Teenage girls who see that other teenagers are having children are more likely to become pregnant themselves.*” (p.55)\n\n\nThe impact of an older sister’s teenage pregnancy on a younger sister is stronger than the one of a maternal adolescent childbearing. → the older sister is closer to the younger. The study is significant because the original cohort consisted of 17,115 women born between 1979 and 1994 in Manitoba. [CITATION]\nAnother study - a meta analysis- presents several factors which can influence pregnancy for teenage girls. Friends have indeed a strong influence on behavior during adolescence and the peer pressure may increase the number of pregnant teenage girls. [CITATION].\n\n\n\nSocial feasting\n\nBy: Ambre & Philibert\n\n\n“On average, those who eat with one other person eat about 35 percent more than they do when they are alone; members of a group of four eat about 75 percent more; those in groups of seven or more eat 96 percent more.” (p.52)\n\nThis claim comes from John de Castro. He calls the phenomenon ‘social facilitation’ and conducted a study where 500 adults had to report everything they ate and with whom in a food diary. What was found was that : “Meals eaten with one other person present were 33% larger than meals eaten alone, whereas 47%, 58%, 69%, 70%, 72%, and 96% increases were associated with two, three, four, five, six, and seven or more people present, respectively.”However, the effect was not observed when people did not know each other.\nThe problem in the initial study is that things are not randomized, people are not randomly assigned to eat in a group of one,four or seven. So as a result, there is an obvious confounder between eating more and eating in a group : most of the time when we gather in a group of seven, it is to celebrate something. So, the fact that we eat more than usual is not caused directly by being with more people but by the fact that we want to celebrate something.\nMoreover, there is no direct proof that eating more in a larger group is related to a nudge. It could be that eating with more people is more enjoyable than eating alone so we end up eating more for example.\nThe initial study only finds a correlation between eating more and with more people but the real reason behind still has to be studied and is not as clear as the book deems it to be.\nThe previous claim is based on i-frame. But in the domain of health and food (cf obesity problematics), focusing on individual-level causes and remedies for obesity risks displacing researcher time, financial resources, and journal pages from deeper thinking and in-depth research about what caused the obesity epidemic, about s-frame interventions to reverse it, and about how to marshal behavioral science to help make such interventions successful. Misattributing problems to individual weakness rather than systemic factors also implicitly blames individuals – and encourages them to blame themselves – for their inability to swim against powerful currents they have little hope of resisting. In fact, studies showed that health problem caused by eating too much can’t be explain and solved at the individual level but are directly linked with the s-frame (Brownell and Warner (2009) ;Volpp et al., (2008) ; Charness & Gneezy, (2009)).\n\n\nContagious obesity?\n\nBy: Adèle\n\n\n“obesity is contagious; you’re more likely to be overweight if you have a lot of overweight friends” (p.64)\n\n\nThere is a confounder, you and your friends are all living in the same country and the same city. Thus, you are subject to the same obesity characteristics, in fact, there is strong evidence that people who migrate often take on the obesity characteristics of their new locality (Schulz et al. 2006).\nMoreover, obesity “i-frame interventions have proven disappointing” (Chater and Loewenstein 2023) . Indeed, s-frame interventions are way more powerful than a nudge and self-incentives regarding obesity. Therefore, even if there is a nudge that with overweight friends you will be more likely to be overweight it is minimal regarding the country’s influence.\nMoreover, there is another confounder, everything is pushing us to be overweight, mostly due to the “food industry and agribusiness relentlessly lobby[ing] at the s-frame” (Barrett 2004) to make sure that states do not decrease people’s consumption of processed food, because consumption of them make them gain money.\n\n\n\n\n\n\nReferences\n\nBarrett, T. 2004. “CNN.com - House Bans Fast-Food Lawsuits - Mar 10, 2004.” https://edition.cnn.com/2004/LAW/03/10/fat.lawsuits/.\n\n\nChater, Nick, and George Loewenstein. 2023. “The i-Frame and the s-Frame: How Focusing on Individual-Level Solutions Has Led Behavioral Public Policy Astray.” Behavioral and Brain Sciences 46: e147. https://doi.org/10.1017/S0140525X22002023.\n\n\nKim, Jaehyun. 2021. “Music Popularity Prediction Through Data Analysis of Music’s Characteristics.” International Journal of Science, Technology and Society 9 (5): 239–44. https://doi.org/10.11648/j.ijsts.20210905.16.\n\n\nNijkamp, Rutger. n.d. “Prediction of Product Success: Explaining Song Popularity by Audio Features from Spotify Data.”\n\n\nSchulz, Leslie O., Peter H. Bennett, Eric Ravussin, Judith R. Kidd, Kenneth K. Kidd, Julian Esparza, and Mauro E. Valencia. 2006. “Effects of Traditional and Western Environments on Prevalence of Type 2 Diabetes in Pima Indians in Mexico and the u.s.” Diabetes Care 29 (8): 1866–71. https://doi.org/10.2337/dc06-0138.",
+    "crumbs": [
+      "I HUMANS AND ECONS",
+      "3 Following the Herd"
+    ]
+  },
+  {
+    "objectID": "part_1/5_choice-architecture.html",
+    "href": "part_1/5_choice-architecture.html",
+    "title": "5 Choice Architecture",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)\n\n\n\nAnother title\n\nBy: Author 2\n\n\n“Another quote” (p.XX)",
+    "crumbs": [
+      "I HUMANS AND ECONS",
+      "5 Choice Architecture"
+    ]
+  },
+  {
+    "objectID": "part_1/1_biases-and-blunders.html",
+    "href": "part_1/1_biases-and-blunders.html",
+    "title": "1 Biases and Blunders",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)\n\n\n\nAnother title\n\nBy: Author 2\n\n\n“Another quote” (p.XX)",
+    "crumbs": [
+      "I HUMANS AND ECONS",
+      "1 Biases and Blunders"
+    ]
+  },
+  {
+    "objectID": "part_4/index.html",
+    "href": "part_4/index.html",
+    "title": "IV FREEDOM",
+    "section": "",
+    "text": "Note\n\n\n\nThis section is much under construction currently.",
+    "crumbs": [
+      "IV FREEDOM"
+    ]
+  },
+  {
+    "objectID": "part_4/index.html#basic-summary-of-the-chapter",
+    "href": "part_4/index.html#basic-summary-of-the-chapter",
+    "title": "IV FREEDOM",
+    "section": "Basic summary of the chapter",
+    "text": "Basic summary of the chapter\nSum up main points of the chapter and the fact checks",
+    "crumbs": [
+      "IV FREEDOM"
+    ]
+  },
+  {
+    "objectID": "part_4/15_privatizing-marriage.html",
+    "href": "part_4/15_privatizing-marriage.html",
+    "title": "15 Privatizing Marriage",
+    "section": "",
+    "text": "Are women worse off after a divorce than men?\n\nBy: Philibert\n\n\n“A woman’s economic prospects fall after divorce, whereas the prospects of the man increase.”(p.235)\n\nThe previous claim has been supported by various studies and research: - Economic Impact on Women: Numerous studies have shown that women often experience a significant decline in their standard of living following a divorce. For example, a study by the U.S. Government Accountability Office (GAO) found that women’s household income fell by an average of 41% after divorce, whereas men’s household income decreased by only about 23%. Other research suggests that women are more likely to face economic hardship post-divorce due to factors like lower average earnings, career interruptions, and a greater likelihood of having primary custody of children. - Economic Impact on Men: Men typically fare better economically after a divorce. While they also experience a decrease in household income, it is usually less severe compared to women. Additionally, men often have higher average incomes and greater career continuity, which helps mitigate the financial impact of divorce. Some studies even suggest that men’s economic prospects can improve post-divorce as they may have fewer household expenses and obligations.\nHowever, there are also some studies and perspectives that offer a more nuanced view or contradict the claim that women’s economic prospects always fall and men’s always rise after divorce.\n\nResearch by Avellar and Smock (2005): While acknowledging that women generally face economic declines post-divorce, their research also points out that the extent of economic hardship can vary significantly based on factors such as employment status, educational attainment, and presence of children.\nStudies on Economic Independence and Dual-Earner Couples: Some research suggests that in households where both spouses are earners, the economic impact of divorce can be less severe for women. For instance, women with stable, well-paying jobs and higher educational levels may experience less financial decline after divorce.\nVariations Based on Geographical and Social Contexts: Studies indicate that the economic outcomes of divorce can vary significantly depending on the country and social safety nets available. For example, in Scandinavian countries with robust social welfare systems, the economic impact on women post-divorce may be mitigated.\nEmerging Trends and Changing Gender Roles: There is evidence that changing gender roles and increasing economic independence of women are altering the traditional economic impacts of divorce. More recent studies show that as women’s labor force participation increases and wage gaps decrease, the financial disparity between divorced men and women may lessen.\n\nThese studies suggest that while the general trend has been for women to face more significant economic challenges post-divorce, there are important variations based on employment, education, social policies, and evolving gender roles that can alter these outcomes.",
+    "crumbs": [
+      "IV FREEDOM",
+      "15 Privatizing Marriage"
+    ]
+  },
+  {
+    "objectID": "part_3/10_prescription-drugs.html",
+    "href": "part_3/10_prescription-drugs.html",
+    "title": "10 Prescription Drugs: Part D for Daunting",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)",
+    "crumbs": [
+      "III HEALTH",
+      "10 Prescription Drugs: Part D for Daunting"
+    ]
+  },
+  {
+    "objectID": "part_3/index.html",
+    "href": "part_3/index.html",
+    "title": "III HEALTH",
+    "section": "",
+    "text": "Note\n\n\n\nThis section is much under construction currently.",
+    "crumbs": [
+      "III HEALTH"
+    ]
+  },
+  {
+    "objectID": "part_3/index.html#basic-summary-of-the-chapter",
+    "href": "part_3/index.html#basic-summary-of-the-chapter",
+    "title": "III HEALTH",
+    "section": "Basic summary of the chapter",
+    "text": "Basic summary of the chapter\nSum up main points of the chapter and the fact checks",
+    "crumbs": [
+      "III HEALTH"
+    ]
+  },
+  {
+    "objectID": "part_2/6_save-more-tomorrow.html",
+    "href": "part_2/6_save-more-tomorrow.html",
+    "title": "6 Save More Tomorrow",
+    "section": "",
+    "text": "Can saving strategies solve retirement problems?\n\nBy: Sarah & Clémence\n\n\n“Americans would be better able to deal with this problem if they were saving more on their own” (p.103).\n\nIn this part “Saves more tomorrow”, the author discusses challenges in retirement savings for Americans and proposes solutions to encourage participation in saving plans. Therefore, he claimed that “Americans would be better able to deal with this problem if they were saving more on their own” (p.103). What if solving Social Security’s problems was the way to help Americans save? Social Security in the US is a government program that provides financial assistance to disabled, retired, or unemployed individuals and their families. It’s funded through payroll taxes and gives benefits such as retirement income and disability payments. Those payroll taxes are known as FICA (federal insurance contributions Act), both employees and employers pay a percentage of their wages in social security. The current social security tax is 6,2% for employees and 6.2% for employers. To determine the benefits, you will get when retired, social security takes your top 35 years of earnings adjusted to inflation. In 2020, the average retired worker gets around 1500 dollars a month from social security. Moreover, Gallup research shows that some 57% of retirees say that social security is a major source of their income in retirement. For over 30 years it was full of cash. But since 2010, the payroll taxes haven’t been enough to cover benefit payments because of the retirement of the baby boomers and the fact that people live longer now. So currently social security pays more in benefits than it receives in revenues. The problem is that Americans think that social security will be able to pay a benefit once they are eligible according to [@ Barry Bosworth, Gary Burtless]” THE AMERICAN SOCIAL SECURITY SYSTEM does not have enough resources to pay for all benefits promised under current law”. Therefore, the author in this part focuses on the ways to encourage Americans to save but it would be better to start by solving the social security system.\nSome solutions proposed by (CNBC?, how social security works) to fix social security: -”Increased the payroll taxes” -”Increase the wages base that payroll taxes are applied to” -”Subject earnings to a higher cap or even all earnings to the payroll tax rate” -”Flat reduction in benefits” -”Increase the retirement age”\n\n\nDo employees throw away retirement money?\n\nBy: Ambre, Fitia, Eric & Andriana\n\n\n“One extreme example comes from the United Kingdom, where some defined-benefit plans do not require any employee contributions and are fully paid for by the employer. They do require employees to take action to join the plan. Data on twenty-five such plans reveal that scarcely half of the eligible employees (51 percent) signed up! 4 This is equivalent to not bothering to cash your paycheck.” (p.108)\n\nWe can actually explain this better with multiple arguments according to (Theinvestopediateam?,MelodyBell,MichaelRoseston.2024)\n\nFirst of all, most employers switched to defined-contribution plans (DC) instead of defined-benefit plans (DB) because they were less costly for the employer and presented less risks. In fact, in a DB, the employee has no control over the benefits and the result is very uncertain, which can deter them from signing up.\nSecondly, when enrolled in a DB, employees struggle to change jobs while keeping their benefits because they are directly linked to their employer by that plan. Changing jobs would compromise the benefits of their DB.\nThirdly, DB plans are hard to put in place in small firms and there are federal regulations on the number of DB that can be attributed to employees. And last but not least, DB plans are not accessible to everybody. For example, in the US, only 25% of employees have access to them and most of those employees are in the public sector (CongressionalResearchService.2022?). Even though most of the 25% of employees who have access to defined-benefit plans do participate, the global participation rate is relatively low. Therefore one of the major point why people don’t enroll in DB is likely because they can’t access them. So, overall, not enrolling in a DB is not like “not bothering to cash a paycheck” and can not be explained by just a lack of will. There are risks and limits to this type of plan.",
+    "crumbs": [
+      "II MONEY",
+      "6 Save More Tomorrow"
+    ]
+  },
+  {
+    "objectID": "part_2/9_privatizing-social-security.html",
+    "href": "part_2/9_privatizing-social-security.html",
+    "title": "9 Privatizing Social Security: Smorgasbord Style",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)",
+    "crumbs": [
+      "II MONEY",
+      "9 Privatizing Social Security: Smorgasbord Style"
+    ]
+  },
+  {
+    "objectID": "part_2/8_credit-markets.html",
+    "href": "part_2/8_credit-markets.html",
+    "title": "8 Credit Markets",
+    "section": "",
+    "text": "Student dept\n\nTeresa\n\n\n“ About two-thirds of four-year college students are in debt when they graduate.”(p.138)\n\n\n2004 : By the time they graduate, nearly two-thirds of students at four-year colleges and universities have student loan debt (66.4% in 2004).\nIn 1993 : less than one-half of four-year graduates had student loans.\nIn 2004, nearly two-thirds (62.4%) of graduates from public universities had student loans.\nIn 2009, about 68% of college graduates had taken on student loan debt, while in 2022, 61% of graduates had borrowed, per data reported to the U.S. (News and World Report)\n\nMore recent datas : - The average student is also taking on more debt: the balance per borrower rose by 25 percent from 2009 to 2021, according to U.S. News and World Report. - Explication : Students are generally borrowing more because college tuition has grown many times faster than income.\n\n\nSigning without reading\n\nJeanne & Adèle\n\n\n“buyers often just start signing without doing much reading” (p.147)\n\nIn order to know whether the author is right, we had to search some studies about this signing-without-reading contract problem:\nMost of the studies go in his way. We found one study, in the field of online purchase contracts, that supports the claim that there is a minority of people (0.2%) who read the contract (at least one second) over 48,154 visitors to 90 software companies (Bakos, Marotta-Wurgler, and Trossen, n.d.). Another study found that of over 92 students, only 4% (4/92) read their electronic contracts “as a general matter.”, which mean that they know what is inside (Eigen 2011). However, studies mitigate his statement in showing that it is not the “majority” that do not read the contract. In the study cited before, only 44% of students do not read them at all (Eigen 2011). Moreover, in another study, only 28.9% of the sample did not review the contract at all (Hillman, n.d.), even if it does mention that the mean time of term contract reading is 80.5 seconds.\n\n\n\n\n\nReferences\n\nBakos, Yannis, Florencia Marotta-Wurgler, and David R. Trossen. n.d. “Does Anyone Read the Fine Print? Consumer Attention to Standard Form Contracts.” https://doi.org/10.2139/ssrn.1443256.\n\n\nEigen, Zev. 2011. “Experimental Evidence of the Relationship Between Reading the Fine Print and Performance of Form-Contract Terms.” Journal of Institutional and Theoretical Economics 168 (August). https://doi.org/10.1628/093245612799440050.\n\n\nHillman, Robert A. n.d. “On-Line Consumer Standard-Form Contracting Practices: A Survey and Discussion of Legal Implications.”",
+    "crumbs": [
+      "II MONEY",
+      "8 Credit Markets"
+    ]
+  },
+  {
+    "objectID": "part_5/index.html",
+    "href": "part_5/index.html",
+    "title": "V EXTENSIONS AND OBJECTIONS",
+    "section": "",
+    "text": "Note\n\n\n\nThis section is much under construction currently.",
+    "crumbs": [
+      "V EXTENSIONS AND OBJECTIONS"
+    ]
+  },
+  {
+    "objectID": "part_5/index.html#basic-summary-of-the-chapter",
+    "href": "part_5/index.html#basic-summary-of-the-chapter",
+    "title": "V EXTENSIONS AND OBJECTIONS",
+    "section": "Basic summary of the chapter",
+    "text": "Basic summary of the chapter\nSum up main points of the chapter and the fact checks",
+    "crumbs": [
+      "V EXTENSIONS AND OBJECTIONS"
+    ]
+  },
+  {
+    "objectID": "part_5/17_objections.html",
+    "href": "part_5/17_objections.html",
+    "title": "17 Objections",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)",
+    "crumbs": [
+      "V EXTENSIONS AND OBJECTIONS",
+      "17 Objections"
+    ]
+  },
+  {
+    "objectID": "part_5/16_a-dozen-nudges.html",
+    "href": "part_5/16_a-dozen-nudges.html",
+    "title": "16 A Dozen Nudges",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)",
+    "crumbs": [
+      "V EXTENSIONS AND OBJECTIONS",
+      "16 A Dozen Nudges"
+    ]
+  },
+  {
+    "objectID": "part_5/18_real-third-way.html",
+    "href": "part_5/18_real-third-way.html",
+    "title": "The Real Third Way",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)"
+  },
+  {
+    "objectID": "part_2/7_naive-investing.html",
+    "href": "part_2/7_naive-investing.html",
+    "title": "7 Naïve Investing",
+    "section": "",
+    "text": "People invest in mutual funds\n\nGaspard & Lou-Anne\n\n\n“In retirement accounts, most investors do not choose stocks individually but rather invest via mutual funds.” (p.119)\n\n\nIt’s actually true.\nIt’s hard to find actual numbers as the number of people investing in mutual funds fluctuate with the market and as it exists many mutual funds. However, authors agree on their popularity.\nAlso, we can find numbers on a specific kind of investment, for example, according to the federal reserve, 36% of retirement savings come at least from IRA which is a mutual fund. At first place, with 55% comes defined contribution plans which are retirement plans where the employer, employee, or both make regular contributions of specified amounts. Many popular plans are defined contribution plans, such as the 401(k), 457, and 403(b) plans. Mutual funds are the most common investment option offered in 401(k) plans.\n“Mutual funds are the cornerstone of retirement savings in the United States. Their hands-off approach to investment management and their built-in diversification have made them a popular choice among retirement investors.”\n\n\n\nPeople invest in mutual funds\n\nGuilhem & Anouk\n\n\n“Expect Error To help those who would not get it together to join, we encourage automatic enrollment, which we would combine with Save More Tomorrow to help people achieve an adequate savings rate. For those who did not invest in a life-cycle fund, we would recommend offering an automatic rebalancing plan so that a participant’s asset allocation would be adjusted over time” (p.130)\n\nAuto-enrollment and auto-escalation are among the most ingenious and elegant i-frame interventions in any domain. Yet their impact has been disappointing, despite often being seen as the major success story for behavioral public policy. David Laibson, once a leading advocate of i-frame solutions, concluded in a 2020 keynote that neither auto-enrollment nor auto-escalation have moved the needle on retirement saving.\nFirst, even without auto-enrollment, many employees end up enrolling in the firms’ retirement plans; auto-enrollment only slightly accelerates the process (Choi, Laibson, Madrian, & Metrick, 2004). Second, and more significant, is the problem of “leakage” (Argento, Bryant, & Sabelhaus, 2015): Employees often remove funds from retirement savings accounts, for example, when changing jobs, or borrow at low interest rates using their retirement balances as loan collateral. Third, auto-enrollment cannot help the many workers at companies which don’t offer matches or provide no plan at all. Surtout les petites entreprises https://fr.kamiltaylan.blog/erisa/#Considerations_particulieres “ERISA’s complex rules discourage some small business owners from creating retirement accounts for their employees.”",
+    "crumbs": [
+      "II MONEY",
+      "7 Naïve Investing"
+    ]
+  },
+  {
+    "objectID": "part_2/index.html",
+    "href": "part_2/index.html",
+    "title": "II MONEY",
+    "section": "",
+    "text": "Note\n\n\n\nThis section is much under construction currently.",
+    "crumbs": [
+      "II MONEY"
+    ]
+  },
+  {
+    "objectID": "part_2/index.html#basic-summary-of-the-chapter",
+    "href": "part_2/index.html#basic-summary-of-the-chapter",
+    "title": "II MONEY",
+    "section": "Basic summary of the chapter",
+    "text": "Basic summary of the chapter\nSum up main points of the chapter and the fact checks",
+    "crumbs": [
+      "II MONEY"
+    ]
+  },
+  {
+    "objectID": "part_3/11_organ-donations.html",
+    "href": "part_3/11_organ-donations.html",
+    "title": "11 How to Increase Organ Donations",
+    "section": "",
+    "text": "Some title\n\nBy: Adèle\n\n\n“each donor can be used for as many as three organs, getting another thousand donors could save as many as three thousand lives”(p.176)\n\nSince Dr. Johnny C. Hong, an internationally recognized multi-organ transplanter (“Johnny c. Hong, MD, FACS,” n.d.) we can donate up to many as 8 organs (https://pennstatehealthnews.org/2024/04/the-medical-minute-six-organ-donation-facts-knock-down-six-myths/). It is the same information we can find through national organ donations organizations^[France: https://ffdsb.org/comprendre-les-autres-dons/don-de-tissus-et-dorganes/; United States: https://www.cdc.gov/transplant-safety/about/?CDC_AAref_Val=https://www.cdc.gov/transplantsafety/overview/key-facts.html; WHO: https://www.who.int/health-topics/transplantation#tab=tab_1]. A diseased organ donor can indeed give kidney(2), liver, heart, lung(2), pancreas and small intestine. Following his deduction we with thousand donors we could save as many as three eight thousand lives.\n\n\n\n\n\nReferences\n\n“Johnny c. Hong, MD, FACS.” n.d. https://www.pennstatehealth.org/doctors/johnny-c-hong-md-facs.",
+    "crumbs": [
+      "III HEALTH",
+      "11 How to Increase Organ Donations"
+    ]
+  },
+  {
+    "objectID": "part_3/12_saving-planet.html",
+    "href": "part_3/12_saving-planet.html",
+    "title": "12 Saving the Planet",
+    "section": "",
+    "text": "Ambient Orb and energy consumption\n\nBy: Sofia and Julia\n\n\n“Clive Thompson (2007) has explored the efforts of Southern California Edison to encourage its consumers to conserve energy—and its creative, nudgelike solution. Past attempts to notify people of their energy use with emails or text messages did no good, but what worked was to give people an Ambient Orb, a little ball that glows red when a customer is using lots of energy but green when energy use is modest. In a period of weeks, users of the Orb reduced their use of energy, in peak periods, by 40 percent. That flashing red ball really gets people’s attention and makes them want to use less energy.”(p.194)\n\nFact check: - In their paper The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray, Chater and Loewenstein, denounce a BP campaign that promotes using the i-frame by helping individuals reduce their own personal carbon footprint. It makes people believe climate issues must be addressed through a change in individual behaviour. Here it is the same (criticizable) idea,”people are consuming too much energy, we give them a light that shows this to them, and the problem is solved” - There is no information about studies on efficiency of Ambient Orb on the website that produced Ambient Orb, the name of the product since then. - Articles in the Web that talk about Ambient Orb cite Thaler and Sunstein; Thaler and Sunstein cite Thompson; Thomson cites Martinez. So, we observe a chain of citations and further research raises some questions: Not only Thaler and Sunstein cite Thomson, but also other researchers, such as Holmes, for example. Citation in Holmes’ article makes it possible for us to find the article of Thompson. The first thing that we observe is that the article is printed in WIRED. WIRED is a monthly American magazine that focuses on how emerging technology affects culture, the economy and politics. There is no indication that WIRED is a research journal. A citation from this article is provided:“So Martinez bought an Ambient Orb and the hacking began. Martinez realized he could use the Orbs to signal changes in electrical rates, programming them to glow green when the grid was underused — and, thus, electricity cheaper — and red during peak hours when customers were paying more for power. He bought 120 Orbs, retrofitted them to glow based on the dynamic California electrical grid, then handed them out for free to his biggest energy consumers, and awaited the results. Within weeks, Orb users reduced their peak-period energy use by 40 percent. Why? Because, Martinez explains, the glowing sphere was less annoying and more persistent than a text alert.”It’s nonintrusive,” he says. “It has a relatively benign effect. But when you suddenly see your ball flashing red, you notice.””(Thompson 2007) The reasonable question is where can we find Martinez’s scientific article. Thomson doesn’t provide any reference including the name of study or the link to it. Moreover, he doesn’t even include any tables or figures in his study. Thanks to Holmes we receive a bit more information about Martinez: he is a Southern California Edison power station manager. (we can’t provide any direct citations from Holmes without her consent, according to copyright policy)\nConclusion: We found it impossible to find the scientific work of Martinez. Having checked the retraction database, we also didn’t find any information about the article being retracted. We checked Google, Google Scholar ResearchGate and Academia. Thus, either the article doesn’t exist, or we can’t find it. Nevertheless, the way in which Thomson represents “results” doesn’t make them trustworthy: no methodology, no data results, no p-values. Moreover, Martinez seems to be the only one to check Ambient Orb efficiency (still need to do more research on it).\n\n\nClean air act and energy consumption\n\nBy: Teresa\n\n\n“Many of their actions have done a lot of good; efforts to reduce air pollution have prevented hundreds of thousands of premature deaths and millions of illnesses as well. “ In the United States, national emissions limitations imposed on major pollution sources have been the rule, not the exception. Such limitations have sometimes been effective; the air is much cleaner than it was in 1970.” (p437)\n\n\nIndeed, in the United States, a “Clean Air Act” was agreed in 1970 and allows the reduction in particulate air pollution alone. In the same year that saw the founding of Earth Day and the creation of the US Environmental Protection Agency (EPA), President Nixon signed into law the Clean Air Act of 1970 (CAA) on December 31, ushering in what is arguably the most important and far-reaching environmental statute enacted in the United States. This act passed by the congress established the National Ambient Air Quality Standards (NAAQS), setting maximum allowable concentrations of particulate matter, among other pollutants, created emissions standards for pollution sources, leading industrial facilities to install pollution control technologies and automakers to produce cleaner, more fuel-efficient vehicle and required each state government to devise its own plan for achieving and sustaining compliance with the standards.\nBy 1980, control of industrial emissions had led to a 50% decrease in particulate emissions, or a 20% decrease in ambient PM concentrations across the country. Today, on average, the PM2.5 pollution that Americans are exposed to is only 35.1 percent of what it was in 1970. (Aaqli?)\nClean Air Act programs have lowered levels of six common pollutants (particles, ozone, lead, carbon monoxide, nitrogen dioxide and sulfur dioxide) as well as numerous toxic pollutants.\nBetween 1990 and 2020, national concentrations of air pollutants improved 73 percent for carbon monoxide, 86 percent for lead (from 2010), 61 percent for annual nitrogen dioxide, 25 percent for ozone, 26 percent for 24-hour coarse particle concentrations, 41 percent for annual fine particles (from 2000), and 91 percent for sulfur dioxide. [epa.gov] Indeed, efforts to reduce air pollution have prevented hundreds of thousands of premature deaths and millions of illnesses as well. Now, with 64.9 percent less pollution in the air, Americans are living healthier, with longer lives : 1.4 years have been added to the life expectancy of the average American since 1970.\nHowever, it’s important to highlight that even though the Clean Air Act has improved air quality, fifty years have passed since its introduction.\nIndeed, recent research has shown an increase in dangerous air pollution levels in recent years.\nMoreover, greenhouse gas emissions are now recognized as a danger to public health. Nevertheless, the United States still accounts for 13 percent of global greenhouse gases, and this percentage is still rising.",
+    "crumbs": [
+      "III HEALTH",
+      "12 Saving the Planet"
+    ]
+  },
+  {
+    "objectID": "part_4/13_school-choices.html",
+    "href": "part_4/13_school-choices.html",
+    "title": "13 Improving School Choices",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)",
+    "crumbs": [
+      "IV FREEDOM",
+      "13 Improving School Choices"
+    ]
+  },
+  {
+    "objectID": "part_4/14_patients-lottery-tickets.html",
+    "href": "part_4/14_patients-lottery-tickets.html",
+    "title": "14 Should Patients Be Forced to Buy Lottery Tickets?",
+    "section": "",
+    "text": "Some title\n\nBy: Author\n\n\n“Some quote” (p.XX)",
+    "crumbs": [
+      "IV FREEDOM",
+      "14 Should Patients Be Forced to Buy Lottery Tickets?"
+    ]
+  },
+  {
+    "objectID": "part_1/2_resisting-temptation.html",
+    "href": "part_1/2_resisting-temptation.html",
+    "title": "2 Resisting Temptation",
+    "section": "",
+    "text": "People don’t eat Popcorn endlessly\n\nBy: Sophia & Marion\n\n\n“A few years ago, Brian Wansink and his colleagues ran an experiment in a Chicago movie theater in which moviegoers found themselves with a free bucket of stale popcorn? (It had been popped five days earlier and stored so as to ensure that it would actually squeak when eaten.) People were not specifically informed of its staleness, but they didn’t like the popcorn. As one moviegoer said,”It was like eating Styrofoam packing peanuts.” In the experiment, half of the moviegoers received a big bucket of popcorn and half received a medium-sized bucket. On average, recipients of the big bucket ate about 53 percent more popcorn-even though they didn’t really like it. After the movie, Wansink asked the recipients of the big bucket whether they might have eaten more because of the size of their bucket. Most denied the pos-sibility, saying, “Things like that don’t trick me.” But they were wrong.” (p.43)\n\n\nIn his study Wansink doesn’t specify what effect was produced by the fact that popcorn was free\nSeveral studies of Wansink have been retracted and Wanink was accused of p-hacking. In the study about popcorn one of the reference article is “Super Bowls: Serving Bowl Size and Food Consumption” that has been retracted due to several reasons: investigation by company/institution, investigation by journal/publisher, misconduct, official Investigation/finding, misconduct by author, unreliable data, unreliable results, upgrade/update of prior notice.More than 40 works of Wansick were retracted.\nErrors were discovered in six other articles published by members of the Cornell Food and Brand Lab. Seventeen other articles authored or co-authored by Wansink have been retracted.\nIn September 2018, Cornell determined that Wansink had committed scientific misconduct and removed him from all teaching and research positions; he was only allowed to assist in investigations of his published work. He also resigned from the university, effective June 30, 2019.",
+    "crumbs": [
+      "I HUMANS AND ECONS",
+      "2 Resisting Temptation"
+    ]
+  },
+  {
+    "objectID": "part_1/4_when-do-we-need-nudge.html",
+    "href": "part_1/4_when-do-we-need-nudge.html",
+    "title": "4 When Do We Need a Nudge?",
+    "section": "",
+    "text": "Do we need a nudge when we can’t practice?\n\nBy: Eric, Andriana, Fitia\n\n\n“Even hard problems become easier with practice… Unfortunately, some of life’s most important decisions do not come with many opportunities to practice… Generally, the higher the stakes, the less often we are able to practice. None of this is to say that the government should be telling people whom to marry or what to study. This is a book about libertarian paternalism. At this stage we just want to stress that rare, difficult choices are good candidates for nudges.”(p.74-75)\n\nThe author’s main argumentative structure here is to prove that rare and difficult choices are good candidates for nudges. To justify this, he uses the following argument: - if A: practice - then B: decision-making is better - not A then not B: then nudges\nif A then B: in fact, it’s been proven time and again that practices make perfect. Indeed, it has been scientifically proven unsurprisingly, practicing a new skill does have an important role in the learning process (Ericsson?, K. Anders, Ralf Th. Krampe.1993). A better knowledge of a subject, or a better mastery of it, does indeed facilitate an individual’s decision-making. The author’s argumentative structure exposes a flaw in logic, relying on the premise “not A then not B therefore nudges.” The primary issue lies in the lack of explanation regarding why nudges are deemed necessary when practice is impossible. While the author elaborates on how increased practice leads to better mastery and decision-making, particularly in complex situations like job or university decisions, they fail to address the fundamental question: “Why does a situation lacking repetition automatically require the implementation of nudges?” Without a clear demonstration of the link between the absence of practice and the necessity of nudges, the author’s argument loses validity. Indeed, there exist numerous scenarios where individuals make decisions without prior practice or external nudges. Consider, for instance, the task of choosing a present for a friend, a situation unfamiliar to many. Despite lacking experience in this specific decision-making process, individuals often rely solely on their knowledge of the friend’s preferences and interests, bypassing the need for external guidance or nudges. While the author emphasizes the benefits of practice for better decision-making, they overlook the fact that individuals are capable of making informed choices even in situations devoid of practice, rendering the automatic reliance on nudges unnecessary and unsubstantiated.\nFurthermore, the author lacks precision in their statements. Towards the end of their argumentation, they generalize from specific cases like marriage and educational decisions to a general judgment. They argue that nudges are necessary in complex situations, but they don’t take the time to define what is meant by complex situations.",
+    "crumbs": [
+      "I HUMANS AND ECONS",
+      "4 When Do We Need a Nudge?"
     ]
   }
 ]

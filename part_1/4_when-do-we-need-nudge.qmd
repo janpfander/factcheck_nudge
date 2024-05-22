@@ -1,0 +1,29 @@
+---
+title: 4 When Do We Need a Nudge?
+bibliography: ../references.bib
+---
+
+# Do we need a nudge when we can't practice?
+
+::: author
+By: Eric, Andriana, Fitia
+:::
+
+::: highlight-quote
+“Even hard problems become easier with practice… Unfortunately, some of life’s most important decisions do not come with many opportunities to practice… Generally, the higher the stakes, the less often we are able to practice.
+None of this is to say that the government should be telling people whom to marry or what to study. This is a book about libertarian paternalism. At this stage we just want to stress that rare, difficult choices are good candidates for nudges.”(p.74-75)
+:::
+
+The author's main argumentative structure here is to prove that rare and difficult choices are good candidates for nudges. To justify this, he uses the following argument:
+- if A: practice
+- then B: decision-making is better
+- not A then not B: then nudges
+
+if A then B: in fact, it's been proven time and again that practices make perfect. Indeed, it has been scientifically proven unsurprisingly, practicing a new skill does have an important role in the learning process [@Ericsson, K. Anders, Ralf Th. Krampe.1993]. A better knowledge of a subject, or a better mastery of it, does indeed facilitate an individual's decision-making.
+The author's argumentative structure exposes a flaw in logic, relying on the premise "not A then not B therefore nudges." The primary issue lies in the lack of explanation regarding why nudges are deemed necessary when practice is impossible. While the author elaborates on how increased practice leads to better mastery and decision-making, particularly in complex situations like job or university decisions, they fail to address the fundamental question: "Why does a situation lacking repetition automatically require the implementation of nudges?" Without a clear demonstration of the link between the absence of practice and the necessity of nudges, the author's argument loses validity. 
+Indeed, there exist numerous scenarios where individuals make decisions without prior practice or external nudges. Consider, for instance, the task of choosing a present for a friend, a situation unfamiliar to many. Despite lacking experience in this specific decision-making process, individuals often rely solely on their knowledge of the friend's preferences and interests, bypassing the need for external guidance or nudges.
+While the author emphasizes the benefits of practice for better decision-making, they overlook the fact that individuals are capable of making informed choices even in situations devoid of practice, rendering the automatic reliance on nudges unnecessary and unsubstantiated.
+
+Furthermore, the author lacks precision in their statements. Towards the end of their argumentation, they generalize from specific cases like marriage and educational decisions to a general judgment. They argue that nudges are necessary in complex situations, but they don’t take the time to define what is meant by complex situations. 
+
+

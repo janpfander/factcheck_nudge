@@ -1,0 +1,15 @@
+---
+title: "9 Privatizing Social Security: Smorgasbord Style"
+bibliography: ../references.bib
+---
+
+# Some title
+
+::: author
+By: Author
+:::
+
+::: highlight-quote
+“Some quote” (p.XX)
+:::
+

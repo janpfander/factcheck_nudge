@@ -7,7 +7,7 @@ website:
   title: "Fact-checking Nudge"
   
   sidebar:
-    logo: "images/book_cover.png"
+    logo: "images/book_cover-factchecked.png"
     pinned: true
     align: center
 
@@ -17,11 +17,35 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - about.qmd
       - section: part_1/index.qmd
         contents: 
-          - part_1/biases-and-blunders.qmd
-
+          - part_1/1_biases-and-blunders.qmd
+          - part_1/2_resisting-temptation.qmd
+          - part_1/3_following-the-herd.qmd
+          - part_1/4_when-do-we-need-nudge.qmd
+          - part_1/5_choice-architecture.qmd
+      - section: part_2/index.qmd
+        contents: 
+          - part_2/6_save-more-tomorrow.qmd
+          - part_2/7_naive-investing.qmd
+          - part_2/8_credit-markets.qmd
+          - part_2/9_privatizing-social-security.qmd
+      - section: part_3/index.qmd
+        contents: 
+          - part_3/10_prescription-drugs.qmd
+          - part_3/11_organ-donations.qmd
+          - part_3/12_saving-planet.qmd
+      - section: part_4/index.qmd
+        contents: 
+          - part_4/13_school-choices.qmd
+          - part_4/14_patients-lottery-tickets.qmd
+          - part_4/15_privatizing-marriage.qmd
+      - section: part_5/index.qmd
+        contents: 
+          - part_5/16_a-dozen-nudges.qmd
+          - part_5/17_objections.qmd
+          - part_5/18_real-third-way.qmd
+          
 format:
   html:
     theme: cosmo

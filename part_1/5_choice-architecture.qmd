@@ -1,0 +1,25 @@
+---
+title: 5 Choice Architecture
+bibliography: ../references.bib
+---
+
+# Some title
+
+::: author
+By: Author
+:::
+
+::: highlight-quote
+“Some quote” (p.XX)
+:::
+
+# Another title
+
+::: author
+By: Author 2
+:::
+
+::: highlight-quote
+“Another quote” (p.XX)
+:::
+

@@ -1,0 +1,16 @@
+---
+title: 13 Improving School Choices
+bibliography: ../references.bib
+---
+
+# Some title
+
+::: author
+By: Author
+:::
+
+::: highlight-quote
+“Some quote” (p.XX)
+:::
+
+

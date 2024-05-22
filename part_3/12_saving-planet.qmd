@@ -1,0 +1,47 @@
+---
+title: 12 Saving the Planet
+bibliography: ../references.bib
+---
+
+# Ambient Orb and energy consumption
+
+::: author
+By: Sofia and Julia
+:::
+
+::: highlight-quote
+“Clive Thompson (2007) has explored the efforts of Southern California Edison to encourage its consumers to conserve energy—and its creative, nudgelike solution. Past attempts to notify people of their energy use with emails or text messages did no good, but what worked was to give people an Ambient Orb, a little ball that glows red when a customer is using lots of energy but green when energy use is modest. In a period of weeks, users of the Orb reduced their use of energy, in peak periods, by 40 percent. That flashing red ball really gets people’s attention and makes them want to use less energy.”(p.194)
+:::
+
+Fact check:
+- In their paper The i-frame and the s-frame: How focusing on individual-level solutions has led behavioral public policy astray, Chater and Loewenstein, denounce a BP campaign that promotes using the i-frame by helping individuals reduce their own personal carbon footprint. It makes people believe climate issues must be addressed through a change in individual behaviour. Here it is the same (criticizable) idea,”people are consuming too much energy, we give them a light that shows this to them, and the problem is solved”
+- There is no information about studies on efficiency of Ambient Orb on the website that produced Ambient Orb, the name of the product since then. 
+- Articles in the Web that talk about Ambient Orb cite Thaler and Sunstein; Thaler and Sunstein cite Thompson; Thomson cites Martinez. So, we observe a chain of citations and further research raises some questions:
+Not only Thaler and Sunstein cite Thomson, but also other researchers, such as Holmes, for example. Citation in Holmes’ article makes it possible for us to find the article of Thompson. The first thing that we observe is that the article is printed in WIRED. WIRED is a monthly American magazine that focuses on how emerging technology affects culture, the economy and politics. There is no indication that WIRED is a research journal. A citation from this article is provided:“So Martinez bought an Ambient Orb and the hacking began. Martinez realized he could use the Orbs to signal changes in electrical rates, programming them to glow green when the grid was underused — and, thus, electricity cheaper — and red during peak hours when customers were paying more for power. He bought 120 Orbs, retrofitted them to glow based on the dynamic California electrical grid, then handed them out for free to his biggest energy consumers, and awaited the results. Within weeks, Orb users reduced their peak-period energy use by 40 percent. Why? Because, Martinez explains, the glowing sphere was less annoying and more persistent than a text alert. "It's nonintrusive," he says. "It has a relatively benign effect. But when you suddenly see your ball flashing red, you notice.””(Thompson 2007)
+The reasonable question is where can we find Martinez’s scientific article. Thomson doesn’t provide any reference including the name of study or the link to it. Moreover, he doesn’t even include any tables or figures in his study. 
+Thanks to Holmes we receive a bit more information about Martinez: he is a Southern California Edison power station manager. (we can’t provide any direct citations from Holmes without her consent, according to copyright policy) 
+
+Conclusion: 
+We found it impossible to find the scientific work of Martinez. Having checked the retraction database, we also didn’t find any information about the article being retracted. We checked Google, Google Scholar ResearchGate and Academia. 
+Thus, either the article doesn’t exist, or we can’t find it. Nevertheless, the way in which Thomson represents “results” doesn’t make them trustworthy: no methodology, no data results, no p-values. Moreover, Martinez seems to be the only one to check Ambient Orb efficiency (still need to do more research on it).
+
+# Clean air act and energy consumption
+::: author
+By: Teresa
+:::
+
+::: highlight-quote
+“Many of their actions have done a lot of good; efforts to reduce air pollution have prevented hundreds of thousands of premature deaths and millions of illnesses as well. 
+“ In the United States, national emissions limitations imposed on major pollution sources have been the rule, not the exception. Such limitations have sometimes been effective; the air is much cleaner than it was in 1970.” (p437) 
+:::
+
+- Indeed, in the United States, a “Clean Air Act” was agreed in 1970 and allows the reduction in particulate air pollution alone. In the same year that saw the founding of Earth Day and the creation of the US Environmental Protection Agency (EPA), President Nixon signed into law the Clean Air Act of 1970 (CAA) on December 31, ushering in what is arguably the most important and far-reaching environmental statute enacted in the United States. This act passed by the congress established the National Ambient Air Quality Standards (NAAQS), setting maximum allowable concentrations of particulate matter, among other pollutants, created emissions standards for pollution sources, leading industrial facilities to install pollution control technologies and automakers to produce cleaner, more fuel-efficient vehicle and required each state government to devise its own plan for achieving and sustaining compliance with the standards.
+- By 1980, control of industrial emissions had led to a 50% decrease in particulate emissions, or a 20% decrease in ambient PM concentrations across the country. Today, on average, the PM2.5 pollution that Americans are exposed to is only 35.1 percent of what it was in 1970. [@Aaqli]
+- Clean Air Act programs have lowered levels of six common pollutants (particles, ozone, lead, carbon monoxide, nitrogen dioxide and sulfur dioxide) as well as numerous toxic pollutants.
+- Between 1990 and 2020, national concentrations of air pollutants improved 73 percent for carbon monoxide, 86 percent for lead (from 2010), 61 percent for annual nitrogen dioxide, 25 percent for ozone, 26 percent for 24-hour coarse particle concentrations, 41 percent for annual fine particles (from 2000), and 91 percent for sulfur dioxide. [epa.gov]
+Indeed, efforts to reduce air pollution have prevented hundreds of thousands of premature deaths and millions of illnesses as well. Now, with 64.9 percent less pollution in the air, Americans are living healthier, with  longer lives :  1.4 years  have been added to the life expectancy of the average American since 1970.
+
+- However, it’s important to highlight that even though the Clean Air Act has improved air quality, fifty years have passed since its introduction. 
+- Indeed, recent research has shown an increase in dangerous air pollution levels in recent years.
+- Moreover, greenhouse gas emissions are now recognized as a danger to public health. Nevertheless, the United States still accounts for 13 percent of global greenhouse gases, and this percentage is still rising.
+

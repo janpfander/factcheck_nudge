@@ -1,0 +1,15 @@
+---
+title: 16 A Dozen Nudges
+bibliography: ../references.bib
+---
+
+# Some title
+
+::: author
+By: Author
+:::
+
+::: highlight-quote
+“Some quote” (p.XX)
+:::
+

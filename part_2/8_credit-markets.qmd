@@ -1,0 +1,38 @@
+---
+title: 8 Credit Markets
+bibliography: ../references.bib
+---
+
+# Student dept
+
+::: author
+Teresa
+:::
+
+::: highlight-quote
+“ About two-thirds of four-year college students are in debt when they graduate.”(p.138)
+:::
+
+-   2004 : By the time they graduate, nearly two-thirds of students at four-year colleges and universities have student loan debt (66.4% in 2004).
+
+-   In 1993 : less than one-half of four-year graduates had student loans.
+
+-   In 2004, nearly two-thirds (62.4%) of graduates from public universities had student loans.
+
+-   In 2009, about 68% of college graduates had taken on student loan debt, while in 2022, 61% of graduates had borrowed, per data reported to the U.S. (News and World Report)
+
+More recent datas : - The average student is also taking on more debt: the balance per borrower rose by 25 percent from 2009 to 2021, according to U.S. News and World Report. - Explication : Students are generally borrowing more because college tuition has grown many times faster than income.
+
+# Signing without reading
+
+::: author
+Jeanne & Adèle
+:::
+
+::: highlight-quote
+“buyers often just start signing without doing much reading” (p.147)
+:::
+
+In order to know whether the author is right, we had to search some studies about this signing-without-reading contract problem:
+
+Most of the studies go in his way. We found one study, in the field of online purchase contracts, that supports the claim that there is a minority of people (0.2%) who read the contract (at least one second) over 48,154 visitors to 90 software companies [@bakos]. Another study found that of over 92 students, only 4% (4/92) read their electronic contracts “as a general matter.”, which mean that they know what is inside [@eigen2011]. However, studies mitigate his statement in showing that it is not the “majority” that do not read the contract. In the study cited before, only 44% of students do not read them at all [@eigen2011]. Moreover, in another study, only 28.9% of the sample did not review the contract at all [@hillman], even if it does mention that the mean time of term contract reading is 80.5 seconds.

@@ -1,0 +1,15 @@
+---
+title: "10 Prescription Drugs: Part D for Daunting"
+bibliography: ../references.bib
+---
+
+# Some title
+
+::: author
+By: Author
+:::
+
+::: highlight-quote
+“Some quote” (p.XX)
+:::
+

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Fact-checking Nudge - I HUMANS AND ECONS</title>
+<title>Fact-checking Nudge - 3 Following the Herd</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -29,8 +49,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../part_1/1_biases-and-blunders.html" rel="next">
-<link href="../index.html" rel="prev">
+<link href="../part_1/4_when-do-we-need-nudge.html" rel="next">
+<link href="../part_1/2_resisting-temptation.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -81,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../part_1/index.html">I HUMANS AND ECONS</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../part_1/index.html">I HUMANS AND ECONS</a></li><li class="breadcrumb-item"><a href="../part_1/3_following-the-herd.html">3 Following the Herd</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -114,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../part_1/index.html" class="sidebar-item-text sidebar-link active">
+            <a href="../part_1/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">I HUMANS AND ECONS</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -135,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../part_1/3_following-the-herd.html" class="sidebar-item-text sidebar-link">
+  <a href="../part_1/3_following-the-herd.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">3 Following the Herd</span></a>
   </div>
 </li>
@@ -239,11 +259,8 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../part_4/15_privatizing-marriage.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">15 Privatizing Marriage</span></a>
-  </div>
-</li>
+ <span class="menu-text">part_2/15_privatizing-marriage.qmd</span>
+  </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -268,11 +285,8 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../part_5/18_real-third-way.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">The Real Third Way</span></a>
-  </div>
-</li>
+ <span class="menu-text">part_2/18_real-third-way.qmd</span>
+  </li>
       </ul>
   </li>
     </ul>
@@ -285,16 +299,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#basic-summary-of-the-chapter" id="toc-basic-summary-of-the-chapter" class="nav-link active" data-scroll-target="#basic-summary-of-the-chapter">Basic summary of the chapter</a></li>
+  <li><a href="#jim-jones-and-the-peoples-temple" id="toc-jim-jones-and-the-peoples-temple" class="nav-link active" data-scroll-target="#jim-jones-and-the-peoples-temple">Jim Jones and the People’s Temple</a></li>
+  <li><a href="#we-dont-like-songs-only-because-others-like-them" id="toc-we-dont-like-songs-only-because-others-like-them" class="nav-link" data-scroll-target="#we-dont-like-songs-only-because-others-like-them">We don’t like songs only because others like them</a></li>
+  <li><a href="#communism-because-of-pluralistic-ignorance" id="toc-communism-because-of-pluralistic-ignorance" class="nav-link" data-scroll-target="#communism-because-of-pluralistic-ignorance">Communism because of pluralistic ignorance?</a></li>
+  <li><a href="#do-teenagers-get-pregnant-from-looking-at-other-teenagers" id="toc-do-teenagers-get-pregnant-from-looking-at-other-teenagers" class="nav-link" data-scroll-target="#do-teenagers-get-pregnant-from-looking-at-other-teenagers">Do teenagers get pregnant from looking at other teenagers?</a></li>
+  <li><a href="#social-feasting" id="toc-social-feasting" class="nav-link" data-scroll-target="#social-feasting">Social feasting</a></li>
+  <li><a href="#contagious-obesity" id="toc-contagious-obesity" class="nav-link" data-scroll-target="#contagious-obesity">Contagious obesity?</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content column-body" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../part_1/index.html">I HUMANS AND ECONS</a></li><li class="breadcrumb-item"><a href="../part_1/3_following-the-herd.html">3 Following the Herd</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">I HUMANS AND ECONS</h1>
+<h1 class="title">3 Following the Herd</h1>
 </div>
 
 
@@ -311,27 +330,115 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<section id="jim-jones-and-the-peoples-temple" class="level1">
+<h1>Jim Jones and the People’s Temple</h1>
+<div class="author">
+<p>By: Jules</p>
 </div>
-<div class="callout-title-container flex-fill">
-Note
+<div class="highlight-quote">
+<p>“The Reverend Jim Jones was the founder and leader of the People’s Temple. In 1978 Jones, facing charges of tax evasion, moved most of his one thousand followers from San Francisco to a small settlement in Guyana, which he named Jonestown. Facing a federal investigation for reported acts of child abuse and torture, Jones decided that his followers should poison their children and then themselves. They prepared vats of poison. A few people resisted; a few others shouted out their protest, but they were silenced. Following Jones’s orders, and the social pressures imposed by one another, mothers and fathers duly poisoned their children. Then they poisoned themselves. Their bodies were found arm in arm, lying together.” (p.51)</p>
 </div>
+<p>A few pieces of information aren’t very clear : - Firstly, Jones and his followers had a tax audit during summer 1977, and decided just after to move to the place they will name Jonestown. They were already settled there in 1978, when in november, Leo Rayan, a representative of California, was sent by the government to investigate following complaints lodged by relatives of members of the People’s Temple, concerning living conditions potentially infringing human rights. - Apparently, several of the victims were forced at gunpoint to absorb the poison mixed with a synthetic drink called ‘kool aid’, and poured into a bathtub from which everyone drew. What’s more, some mothers administered the poison to their babies themselves. - Fanatics of the sect fired some people who didn’t want to apply the “pact of death” they signed during the adhesion to the “Temple”. - They didn’t all die, approximately 80 managed to survive, escaping in the Jungle. - Jones was found dead, a bullet in the head.</p>
+<p>In conclusion, they were not all killed by social influence but also by coercion, some were forced to commit suicide by armed threats, and others who refused were shot dead.</p>
+</section>
+<section id="we-dont-like-songs-only-because-others-like-them" class="level1">
+<h1>We don’t like songs only because others like them</h1>
+<div class="author">
+<p>By: Adèle</p>
 </div>
-<div class="callout-body-container callout-body">
-<p>This section is much under construction currently.</p>
+<div class="highlight-quote">
+<p>“The identical song could be a hit or a failure simply because other people, at the start, were seen to choose to have downloaded it or not” (p.62)</p>
 </div>
+<p>This citation is implying that people will like a song only because other people liked it, we will go through the veracity of this claim:</p>
+<ul>
+<li>He based his sentence on a study : “Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market ’’. However, he overacted the study, in fact the author mentioned « In general, the best songs never do very badly, and the worst songs never do extremely well, but almost any other result is possible.” [CITATION MISSING]</li>
+<li>There are many other reasons why people like some songs more than others, and why they come to like them in the first place. An example are rhythm features: A lot of studies state a correlation between the rhythm features and the popularity of songs <span class="citation" data-cites="nijkamp kim2021">(<a href="#ref-nijkamp" role="doc-biblioref">Nijkamp, n.d.</a>; <a href="#ref-kim2021" role="doc-biblioref">Kim 2021</a>)</span>. These two studies showed that they seem to be rhythm preferences shared by a lot of people, which could be an explanation of why we love the same song and also contradict the statement that identical songs could be a hit or a failure only regarding if people have downloaded it.</li>
+</ul>
+</section>
+<section id="communism-because-of-pluralistic-ignorance" class="level1">
+<h1>Communism because of pluralistic ignorance?</h1>
+<div class="author">
+<p>By: Lou-Anne</p>
 </div>
-<section id="basic-summary-of-the-chapter" class="level2">
-<h2 class="anchored" data-anchor-id="basic-summary-of-the-chapter">Basic summary of the chapter</h2>
-<p>Sum up main points of the chapter and the fact checks</p>
+<div class="highlight-quote">
+<p>“An important problem here is “pluralistic ignorance”—that is, ignorance, on the part of all or most, about what other people think. We may follow a practice or a tradition not because we like it, or even think it de- fensible, but merely because we think that most other people like it. Many social practices persist for this reason, and a small shock, or nudge, can dislodge them.6 A dramatic example is communism in the former Soviet bloc, which lasted in part because people were unaware how many people despised the regime. (p.59)”</p>
+</div>
+<p>The last sentence, in its construction, isn’t really clear, and could be interpreted in several ways. But mostly, what it suggests to the reader is that communism in Soviet Union was despised by a large majority of the population, for a long time (“lasted”) and that people were unaware of others’ feelings about it.</p>
+<p>So, is pluralistic ignorance really one of the reasons why communism, in the Soviet Union, lasted so long? First, let’s see the broad reasons why communism and the Soviet Union ended.</p>
+<ul>
+<li>economical reasons : By the end of the 1980’s, the economy had deteriorated, with large budget debts and food and consumer goods shortages.</li>
+<li>political reasons : Mikhail Gorbachev became leader of the USSR on 11 March 1985, and established the policy of glasnost, which is free speech. The control of the press was relaxed and thousands of dissidents were released from prison. Glasnost had the effect of opening the whole Soviet system up to criticism. Here,it brings the hypothesis that people were not necessarily unaware that others didn’t like the regime but instead were scared because criticism was punished. It would explain both the fact that people were not showing their disagreement and so were not explicitly perceiving the one of others and the fact that communism lasted so long. → In March 1990 the Communist Party’s monopoly of power was removed from the Soviet Constitution.</li>
+</ul>
+<p>Then, is there a study that establishes a link between pluralistic ignorance and the support of communism ? Is there a study that establishes that people despised the regime?</p>
+<ul>
+<li>In a 2016 survey, conducted by the Levada Center which is a Russian independent, nongovernmental polling and sociological research organization. Russian people think that the main reasons for the collapse of USSR, were first “Yeltsin, Kravchuk, and Shushkevich’s irresponsible and unjustified Belovezha “conspiracy”” (29%), then “a conspiracy between foreign powers hostile to the USSR” (23%), “the people’s dissatisfaction with the country’s leadership, M. Gorbachev and his associates” only comes third with 21%. Moreover, the actual despising of communism (“The complete exhaustion of communist ideology”) comes sixth with 13%. We precise that people were allowed to select multiple responses.</li>
+<li>By showing the actual perception of the Soviet Union and its collapse, this survey doesn’t clearly support or even goes against the claim that the despising of communism ideology was shared by a majority of the population.</li>
+<li>Finally, the author doesn’t base their claim on any study establishing the existence of pluralistic ignorance in the Soviet Union.</li>
+</ul>
+<p>→ We’re not able to determine if communism in the Soviet Union lasted because of pluralistic ignorance, as it is difficult to establish how many people despised the regime and the real impact of pluralistic ignorance compared to other factors, for example political or economical reasons.</p>
+</section>
+<section id="do-teenagers-get-pregnant-from-looking-at-other-teenagers" class="level1">
+<h1>Do teenagers get pregnant from looking at other teenagers?</h1>
+<div class="author">
+<p>By: Esther</p>
+</div>
+<div class="highlight-quote">
+<p>“Teenage girls who see that other teenagers are having children are more likely to become pregnant themselves.*” (p.55)</p>
+</div>
+<ul>
+<li>The impact of an older sister’s teenage pregnancy on a younger sister is stronger than the one of a maternal adolescent childbearing. → the older sister is closer to the younger. The study is significant because the original cohort consisted of 17,115 women born between 1979 and 1994 in Manitoba. [CITATION]</li>
+<li>Another study - a meta analysis- presents several factors which can influence pregnancy for teenage girls. Friends have indeed a strong influence on behavior during adolescence and the peer pressure may increase the number of pregnant teenage girls. [CITATION].</li>
+</ul>
+</section>
+<section id="social-feasting" class="level1">
+<h1>Social feasting</h1>
+<div class="author">
+<p>By: Ambre &amp; Philibert</p>
+</div>
+<div class="highlight-quote">
+<p>“On average, those who eat with one other person eat about 35 percent more than they do when they are alone; members of a group of four eat about 75 percent more; those in groups of seven or more eat 96 percent more.” (p.52)</p>
+</div>
+<p>This claim comes from John de Castro. He calls the phenomenon ‘social facilitation’ and conducted a study where 500 adults had to report everything they ate and with whom in a food diary. What was found was that : “Meals eaten with one other person present were 33% larger than meals eaten alone, whereas 47%, 58%, 69%, 70%, 72%, and 96% increases were associated with two, three, four, five, six, and seven or more people present, respectively.”However, the effect was not observed when people did not know each other.</p>
+<p>The problem in the initial study is that things are not randomized, people are not randomly assigned to eat in a group of one,four or seven. So as a result, there is an obvious confounder between eating more and eating in a group : most of the time when we gather in a group of seven, it is to celebrate something. So, the fact that we eat more than usual is not caused directly by being with more people but by the fact that we want to celebrate something.</p>
+<p>Moreover, there is no direct proof that eating more in a larger group is related to a nudge. It could be that eating with more people is more enjoyable than eating alone so we end up eating more for example.</p>
+<p>The initial study only finds a correlation between eating more and with more people but the real reason behind still has to be studied and is not as clear as the book deems it to be.</p>
+<p>The previous claim is based on i-frame. But in the domain of health and food (cf obesity problematics), focusing on individual-level causes and remedies for obesity risks displacing researcher time, financial resources, and journal pages from deeper thinking and in-depth research about what caused the obesity epidemic, about s-frame interventions to reverse it, and about how to marshal behavioral science to help make such interventions successful. Misattributing problems to individual weakness rather than systemic factors also implicitly blames individuals – and encourages them to blame themselves – for their inability to swim against powerful currents they have little hope of resisting. In fact, studies showed that health problem caused by eating too much can’t be explain and solved at the individual level but are directly linked with the s-frame (Brownell and Warner (2009) ;Volpp et al., (2008) ; Charness &amp; Gneezy, (2009)).</p>
+</section>
+<section id="contagious-obesity" class="level1">
+<h1>Contagious obesity?</h1>
+<div class="author">
+<p>By: Adèle</p>
+</div>
+<div class="highlight-quote">
+<p>“obesity is contagious; you’re more likely to be overweight if you have a lot of overweight friends” (p.64)</p>
+</div>
+<ul>
+<li>There is a confounder, you and your friends are all living in the same country and the same city. Thus, you are subject to the same obesity characteristics, in fact, there is strong evidence that people who migrate often take on the obesity characteristics of their new locality <span class="citation" data-cites="schulz2006">(<a href="#ref-schulz2006" role="doc-biblioref">Schulz et al. 2006</a>)</span>.</li>
+<li>Moreover, obesity “i-frame interventions have proven disappointing” <span class="citation" data-cites="chaterIframeSframeHow2023">(<a href="#ref-chaterIframeSframeHow2023" role="doc-biblioref">Chater and Loewenstein 2023</a>)</span> . Indeed, s-frame interventions are way more powerful than a nudge and self-incentives regarding obesity. Therefore, even if there is a nudge that with overweight friends you will be more likely to be overweight it is minimal regarding the country’s influence.</li>
+<li>Moreover, there is another confounder, everything is pushing us to be overweight, mostly due to the “food industry and agribusiness relentlessly lobby[ing] at the s-frame” <span class="citation" data-cites="barrett2004">(<a href="#ref-barrett2004" role="doc-biblioref">Barrett 2004</a>)</span> to make sure that states do not decrease people’s consumption of processed food, because consumption of them make them gain money.</li>
+</ul>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-barrett2004" class="csl-entry" role="listitem">
+Barrett, T. 2004. <span>“CNN.com - House Bans Fast-Food Lawsuits - Mar 10, 2004.”</span> <a href="https://edition.cnn.com/2004/LAW/03/10/fat.lawsuits/">https://edition.cnn.com/2004/LAW/03/10/fat.lawsuits/</a>.
+</div>
+<div id="ref-chaterIframeSframeHow2023" class="csl-entry" role="listitem">
+Chater, Nick, and George Loewenstein. 2023. <span>“The i-Frame and the s-Frame: How Focusing on Individual-Level Solutions Has Led Behavioral Public Policy Astray.”</span> <em>Behavioral and Brain Sciences</em> 46: e147. <a href="https://doi.org/10.1017/S0140525X22002023">https://doi.org/10.1017/S0140525X22002023</a>.
+</div>
+<div id="ref-kim2021" class="csl-entry" role="listitem">
+Kim, Jaehyun. 2021. <span>“Music Popularity Prediction Through Data Analysis of Music<span>’</span>s Characteristics.”</span> <em>International Journal of Science, Technology and Society</em> 9 (5): 239–44. <a href="https://doi.org/10.11648/j.ijsts.20210905.16">https://doi.org/10.11648/j.ijsts.20210905.16</a>.
+</div>
+<div id="ref-nijkamp" class="csl-entry" role="listitem">
+Nijkamp, Rutger. n.d. <span>“Prediction of Product Success: Explaining Song Popularity by Audio Features from Spotify Data.”</span>
+</div>
+<div id="ref-schulz2006" class="csl-entry" role="listitem">
+Schulz, Leslie O., Peter H. Bennett, Eric Ravussin, Judith R. Kidd, Kenneth K. Kidd, Julian Esparza, and Mauro E. Valencia. 2006. <span>“Effects of Traditional and Western Environments on Prevalence of Type 2 Diabetes in Pima Indians in Mexico and the u.s.”</span> <em>Diabetes Care</em> 29 (8): 1866–71. <a href="https://doi.org/10.2337/dc06-0138">https://doi.org/10.2337/dc06-0138</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -743,13 +850,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link" aria-label="Welcome">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Welcome</span>
+      <a href="../part_1/2_resisting-temptation.html" class="pagination-link" aria-label="2 Resisting Temptation">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">2 Resisting Temptation</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../part_1/1_biases-and-blunders.html" class="pagination-link" aria-label="1 Biases and Blunders">
-        <span class="nav-page-text">1 Biases and Blunders</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../part_1/4_when-do-we-need-nudge.html" class="pagination-link" aria-label="4 When Do We Need a Nudge?">
+        <span class="nav-page-text">4 When Do We Need a Nudge?</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

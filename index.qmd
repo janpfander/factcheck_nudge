@@ -1,7 +1,24 @@
 ---
 title: "Fact-checking Nudge"
+csl: apa-cv.csl
+bibliography: references.bib
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
 ---
 
 ## Welcome {#welcome}
 
-It's possible to create beautiful documentation to share online with [Quarto](https://quarto.org) that auto-updates with [GitHub](http://github.com). This is very new and incredibly cool. This tutorial is an example of a quarto website --- it is a really powerful way to create and share your work. You can communicate about science using the same reproducible workflow you and/or your colleagues use for analyses, whether or not you write code.
+This is the project website for the 2024 class "Critical thinking and fact-checking" of the undergraduate program "Sciences pour un Monde Durable" at *PSL University*, Paris.
+
+We fact-checked the book:
+
+> @thalerNudgeImprovingDecisions2008a
+
+![Book Cover](images/book_cover.png){fig-alt="Book cover" fig-align="center" width="20%"}
+
+The book has been been highly influential. According to its publishing house, [it sold more than 2 million copies](https://www.penguinrandomhouse.com/books/690485/nudge-by-richard-h-thaler-and-cass-r-sunstein/). It, arguably, paved the way for behavioral public policy.
+
+A second--or in the words of the authors, a "final"--edition has been published in 2021. We fact-checked the original, first publication of 2008.
+
+Pick a chapter and see what we found!
