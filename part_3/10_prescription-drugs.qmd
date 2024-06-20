@@ -3,13 +3,40 @@ title: "10 Prescription Drugs: Part D for Daunting"
 bibliography: ../references.bib
 ---
 
-# Some title
+# Healthcare before part D
 
 ::: author
-By: Author
+By: Clémence B.
 :::
 
 ::: highlight-quote
-“Some quote” (p.XX)
+“Before Part D, about half of all American seniors—approximately twenty-one million—had some form of prescription drug coverage through private plans or a government source such as the Department of Veterans Affairs.”
 :::
 
+First, what is Medicare Part D ?
+
+Medicare Part D is a voluntary benefit offered by private insurance companies to cover some or all of the cost of many prescription drugs.
+
+“Original Medicare covers some drugs that might be administered in a hospital or doctor’s office setting, but Part D covers the kinds of drugs you might pick up from the pharmacy. If you’re signed up for a [Medicare supplement plan](https://health.usnews.com/medicare/best-medicare-plans/medicare-supplement-plans), that also works alongside your Part D prescription drug plan,” explains Whitney Stidom, vice president of Medicare operations with eHealth Inc., a health insurance broker and online resource provider headquartered in Santa Clara, California.
+
+Based on data, the fact is accurrate. Before the introduction of Part D, about half of seniors had some form of prescription drug coverage. This coverage came from various sources, including employer-sponsored retiree plans, Medicaid, the Department of Veterans Affairs, and other state programs​​. Estimates indicate that approximately 21 million seniors had such coverage prior to Part D [(KFF)](https://www.kff.org/medicare/issue-brief/10-things-to-know-about-medicare-part-d-coverage-and-costs-in-2019/). This left the other half of seniors, roughly another 21 million, without consistent and comprehensive drug coverage, highlighting the need for the implementation of Medicare Part D to fill this gap.
+
+We could however criticize the fact that those plans should not have to be purchased indeed an access to healthcare should not be a field where there is so much inequalities due to wealth. Healthcare should be accessible by all.
+
+# Bush and the Medicare plan "Part D"
+
+::: author
+By: Jules
+:::
+
+::: highlight-quote
+Three years later, President Bush’s version passed on a narrow vote in Congress. \[...\] Bush’s plan created a half-trillion-dollar federal subsidy for prescription drug coverage called Part D. “The reason why we felt it was necessary to provide choices is because we want the system to meet the needs of the consumer,” President Bush told a clubhouse of Florida seniors in 2006, with the plan’s rollout under way. “The more choices you have, the more likely it is you’ll be able to find a program that suits your specific needs. In other words, one-size-fits-all is not a consumer-friendly program. And I believe in consumers, I believe in trusting people.” (p.91)
+:::
+
+Three different facts needs to be verified here :
+
+-   The vote for the “Medicare Prescription Drug and Modernization act” was very close indeed: [216 votes for, 215 votes against, 1 abstention and 3 non-voters](https://clerk.house.gov/evs/2003/roll332.xml#Y)
+
+-   The drug assistance and other provisions of the law are projected to cost taxpayers at least \$395 billion, and possibly as much as \$534 billion, over the next decade [@oliver2004].
+
+-   President Bush actually uttered these sentences [on Tuesday, May 9, 2006, between 11am and noon, at the Kings Point Clubhouse, Sun City Center, Florida, to a gathering of people over the age of fifty](https://georgewbush-whitehouse.archives.gov/news/releases/2006/05/20060509-5.html).

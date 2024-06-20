@@ -3,6 +3,10 @@ title: 3 Following the Herd
 bibliography: ../references.bib
 ---
 
+::: callout-note
+This part of the book is about how our choices and behavior are influenced by others. According to the authors, we tend to sometimes mindlessly copy the behavior of family, friends, or even strangers. The authors argue that people’s susceptibility to social norms can be used to design nudges, and tackle problems such as obesity. (by Adèle)
+:::
+
 # Jim Jones and the People's Temple
 
 ::: author
@@ -13,7 +17,13 @@ By: Jules
 “The Reverend Jim Jones was the founder and leader of the People’s Temple. In 1978 Jones, facing charges of tax evasion, moved most of his one thousand followers from San Francisco to a small settlement in Guyana, which he named Jonestown. Facing a federal investigation for reported acts of child abuse and torture, Jones decided that his followers should poison their children and then themselves. They prepared vats of poison. A few people resisted; a few others shouted out their protest, but they were silenced. Following Jones’s orders, and the social pressures imposed by one another, mothers and fathers duly poisoned their children. Then they poisoned themselves. Their bodies were found arm in arm, lying together.” (p.51)
 :::
 
-A few pieces of information aren’t very clear : - Firstly, Jones and his followers had a tax audit during summer 1977, and decided just after to move to the place they will name Jonestown. They were already settled there in 1978, when in november, Leo Rayan, a representative of California, was sent by the government to investigate following complaints lodged by relatives of members of the People's Temple, concerning living conditions potentially infringing human rights. - Apparently, several of the victims were forced at gunpoint to absorb the poison mixed with a synthetic drink called 'kool aid', and poured into a bathtub from which everyone drew. What's more, some mothers administered the poison to their babies themselves. - Fanatics of the sect fired some people who didn’t want to apply the “pact of death” they signed during the adhesion to the “Temple”. - They didn’t all die, approximately 80 managed to survive, escaping in the Jungle. - Jones was found dead, a bullet in the head.
+A few pieces of information aren’t very clear :
+
+-   Firstly, Jones and his followers had a tax audit during summer 1977, and decided just after to move to the place they will name Jonestown. They were already settled there in 1978, when in november, Leo Rayan, a representative of California, was sent by the government to investigate following complaints lodged by relatives of members of the People's Temple, concerning living conditions potentially infringing human rights (https://www.lefigaro.fr/histoire/archives/2018/11/16/26010-20181116ARTFIG00300-jonestown-massacre-des-adeptes-du-temple-du-peuple-il-y-a-40-ans.php).
+-   Apparently, several of the victims were forced at gunpoint to absorb the poison mixed with a synthetic drink called 'kool aid', and poured into a bathtub from which everyone drew. What's more, some mothers administered the poison to their babies themselves.
+-   Fanatics of the sect fired some people who didn’t want to apply the “pact of death” they signed during the adhesion to the “Temple”.
+-   They didn’t all die, [approximately 80 managed to survive, escaping in the Jungle](https://nospensees.fr/jim-jones-et-le-pouvoir-de-la-suggestion-collective/).
+-   Jones was found dead, a bullet in the head.
 
 In conclusion, they were not all killed by social influence but also by coercion, some were forced to commit suicide by armed threats, and others who refused were shot dead.
 
@@ -27,9 +37,9 @@ By: Adèle
 “The identical song could be a hit or a failure simply because other people, at the start, were seen to choose to have downloaded it or not” (p.62)
 :::
 
-This citation is implying that people will like a song only because other people liked it, we will go through the veracity of this claim:
+This citation is implying that people will like a song only because other people liked it. He used it in order to demonstrate the impact of other behavior over ours.We will go through the veracity of this claim:
 
--   He based his sentence on a study : “Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market ''. However, he overacted the study, in fact the author mentioned « In general, the best songs never do very badly, and the worst songs never do extremely well, but almost any other result is possible.” \[CITATION MISSING\]
+-   He based his sentence on a study : “Experimental Study of Inequality and Unpredictability in an Artificial Cultural Market ''. However, he overacted the study, in fact the author mentioned « In general, **the best songs never do very badly, and the worst songs never do extremely well**, but almost any other result is possible” [@salganik2006].
 -   There are many other reasons why people like some songs more than others, and why they come to like them in the first place. An example are rhythm features: A lot of studies state a correlation between the rhythm features and the popularity of songs [@nijkamp; @kim2021]. These two studies showed that they seem to be rhythm preferences shared by a lot of people, which could be an explanation of why we love the same song and also contradict the statement that identical songs could be a hit or a failure only regarding if people have downloaded it.
 
 # Communism because of pluralistic ignorance?
@@ -42,20 +52,22 @@ By: Lou-Anne
 “An important problem here is “pluralistic ignorance”—that is, ignorance, on the part of all or most, about what other people think. We may follow a practice or a tradition not because we like it, or even think it de- fensible, but merely because we think that most other people like it. Many social practices persist for this reason, and a small shock, or nudge, can dislodge them.6 A dramatic example is communism in the former Soviet bloc, which lasted in part because people were unaware how many people despised the regime. (p.59)”
 :::
 
-The last sentence, in its construction, isn't really clear, and could be interpreted in several ways. But mostly, what it suggests to the reader is that communism in Soviet Union was despised by a large majority of the population, for a long time (“lasted”) and that people were unaware of others’ feelings about it.
+The authors suggest that although the populism despised communism in the Soviet Union, it lasted because people were unaware of others’ feelings about it.
 
-So, is pluralistic ignorance really one of the reasons why communism, in the Soviet Union, lasted so long? First, let’s see the broad reasons why communism and the Soviet Union ended.
+But is pluralistic ignorance really one of the reasons why communism, in the Soviet Union, lasted so long? First, let’s see the broad reasons why communism and the Soviet Union ended.
 
--   economical reasons : By the end of the 1980’s, the economy had deteriorated, with large budget debts and food and consumer goods shortages.
--   political reasons : Mikhail Gorbachev became leader of the USSR on 11 March 1985, and established the policy of glasnost, which is free speech. The control of the press was relaxed and thousands of dissidents were released from prison. Glasnost had the effect of opening the whole Soviet system up to criticism. Here,it brings the hypothesis that people were not necessarily unaware that others didn’t like the regime but instead were scared because criticism was punished. It would explain both the fact that people were not showing their disagreement and so were not explicitly perceiving the one of others and the fact that communism lasted so long. → In March 1990 the Communist Party's monopoly of power was removed from the Soviet Constitution.
+-   **economic reasons**: By the end of the 1980’s, the economy had deteriorated, with large budget debts and food and consumer goods shortages.
+-   **political reasons** : Mikhail Gorbachev became leader of the USSR on 11 March 1985, and established the policy of glasnost, which is free speech. The control of the press was relaxed and thousands of dissidents were released from prison. Glasnost had the effect of opening the whole Soviet system up to criticism. Before, people who expressed criticism of the regime had to fear punishment. In fact, it seems more plausible that people didn’t revolt because they were scared of consequences, rather than because they believed everyone else would appreciate that government.
 
-Then, is there a study that establishes a link between pluralistic ignorance and the support of communism ? Is there a study that establishes that people despised the regime?
+Is there a study that establishes a link between pluralistic ignorance and the support of communism? It is hard to say, but if we look at polls in Russia today, it seems that people today think that it wasn’t people’s disapproval which led to the USSR communist ideology.
 
--   In a 2016 survey, conducted by the Levada Center which is a Russian independent, nongovernmental polling and sociological research organization. Russian people think that the main reasons for the collapse of USSR, were first “Yeltsin, Kravchuk, and Shushkevich’s irresponsible and unjustified Belovezha “conspiracy”” (29%), then “a conspiracy between foreign powers hostile to the USSR” (23%), “the people’s dissatisfaction with the country’s leadership, M. Gorbachev and his associates” only comes third with 21%. Moreover, the actual despising of communism (“The complete exhaustion of communist ideology”) comes sixth with 13%. We precise that people were allowed to select multiple responses.
+-   A 2016 survey, conducted by the Levada Center–a Russian independent, nongovernmental polling and sociological research organization–suggests that Russian people think that the main reasons for the collapse of USSR, were first “Yeltsin, Kravchuk, and Shushkevich’s irresponsible and unjustified Belovezha “conspiracy”” (29%), then “a conspiracy between foreign powers hostile to the USSR” (23%), and only third comes “the people’s dissatisfaction with the country’s leadership, M. Gorbachev and his associates” (21%). Moreover, the actual despising of communism (“The complete exhaustion of communist ideology”) comes sixth with 13%. We precise that people were allowed to select multiple responses.
 -   By showing the actual perception of the Soviet Union and its collapse, this survey doesn’t clearly support or even goes against the claim that the despising of communism ideology was shared by a majority of the population.
 -   Finally, the author doesn’t base their claim on any study establishing the existence of pluralistic ignorance in the Soviet Union.
 
-→ We’re not able to determine if communism in the Soviet Union lasted because of pluralistic ignorance, as it is difficult to establish how many people despised the regime and the real impact of pluralistic ignorance compared to other factors, for example political or economical reasons.
+To sum up, one cannot really determine if communism in the Soviet Union lasted because of pluralistic ignorance, as it is difficult to establish how many people despised the regime and the real impact of pluralistic ignorance compared to other factors, for example political or economical reasons.
+
+References: https://sociologicalscience.com/download/vol-7/december/SocSci_v7_628to648.pdf https://www.levada.ru/en/2017/01/09/the-fall-of-the-soviet-union/ https://www.britannica.com/story/why-did-the-soviet-union-collapse https://www.stiftung-berliner-mauer.de/en/topics/berlin-wall
 
 # Do teenagers get pregnant from looking at other teenagers?
 
@@ -67,8 +79,9 @@ By: Esther
 “Teenage girls who see that other teenagers are having children are more likely to become pregnant themselves.\*” (p.55)
 :::
 
--   The impact of an older sister’s teenage pregnancy on a younger sister is stronger than the one of a maternal adolescent childbearing. → the older sister is closer to the younger. The study is significant because the original cohort consisted of 17,115 women born between 1979 and 1994 in Manitoba. \[CITATION\]
--   Another study - a meta analysis- presents several factors which can influence pregnancy for teenage girls. Friends have indeed a strong influence on behavior during adolescence and the peer pressure may increase the number of pregnant teenage girls. \[CITATION\].
+-   The impact of an older sister’s teenage pregnancy on a younger sister is stronger than the one of a maternal adolescent childbearing. → the older sister is closer to the younger. The study is significant because the original cohort consisted of 17,115 women born between 1979 and 1994 in Manitoba. [@wall-wieler2016]
+-   Influence pregnancy for teenage girls. Friends have indeed a strong influence on behavior during adolescence and the peer pressure may increase the number of pregnant teenage girls. However, to measure friends’ influence, they only ask questions to each teenager. We can’t really rely on this.
+-   However, it appears that economic conditions have more impact on the pregnancy than peer influence. Indeed, poor people are more likely to be pregnant at younger age than the rich people. Those, because of education and facilities to contraception access, get less and older pregnant [@chung2018].
 
 # Social feasting
 
@@ -80,17 +93,17 @@ By: Ambre & Philibert
 “On average, those who eat with one other person eat about 35 percent more than they do when they are alone; members of a group of four eat about 75 percent more; those in groups of seven or more eat 96 percent more.” (p.52)
 :::
 
-This claim comes from John de Castro. He calls the phenomenon ‘social facilitation’ and conducted a study where 500 adults had to report everything they ate and with whom in a food diary. What was found was that : “Meals eaten with one other person present were 33% larger than meals eaten alone, whereas 47%, 58%, 69%, 70%, 72%, and 96% increases were associated with two, three, four, five, six, and seven or more people present, respectively.”However, the effect was not observed when people did not know each other.
+Here, the authors aim to prove that people are easily influenced by others and will change their behaviour to escape peer pressure. This claim comes from John de Castro. He calls the phenomenon ‘social facilitation’ and conducted a study where 500 adults had to report everything they ate and with whom in a food diary.He found that “meals eaten with one other person present were 33% larger than meals eaten alone, whereas 47%, 58%, 69%, 70%, 72%, and 96% increases were associated with two, three, four, five, six, and seven or more people present, respectively.”
 
-The problem in the initial study is that things are not randomized, people are not randomly assigned to eat in a group of one,four or seven. So as a result, there is an obvious confounder between eating more and eating in a group : most of the time when we gather in a group of seven, it is to celebrate something. So, the fact that we eat more than usual is not caused directly by being with more people but by the fact that we want to celebrate something.
+Several issues in the study design prevent us from concluding that the presence of other people inclines us to eat more: - First, the effect was not observed when people did not know each other.
 
-Moreover, there is no direct proof that eating more in a larger group is related to a nudge. It could be that eating with more people is more enjoyable than eating alone so we end up eating more for example.
+-   Second, the study lacked randomization: people were not randomly assigned to eat in a group of one, four or seven. So as a result, there is an obvious confounder between eating more and eating in a group: most of the time, when we gather in larger groups to eat, it is to celebrate something. So, the fact that we eat more than usual is not necessarily caused directly by being with more people - both being with people and eating more might be caused by the fact that we want to celebrate something.
 
-The initial study only finds a correlation between eating more and with more people but the real reason behind still has to be studied and is not as clear as the book deems it to be.
+More broadly, the author’s approach to public policy can be classified as “i-frame” [@chaterIframeSframeHow2023]. But in the domain of health and food (cf obesity problematics), focusing on individual-level causes and remedies for obesity risks displacing researcher time, financial resources, and journal pages from deeper thinking and in-depth research about what caused the obesity epidemic, about s-frame interventions to reverse it, and about how to marshal behavioral science to help make such interventions successful. Misattributing problems to individual weakness rather than systemic factors also implicitly blames individuals – and encourages them to blame themselves – for their inability to swim against powerful currents they have little hope of resisting.
 
-The previous claim is based on i-frame. But in the domain of health and food (cf obesity problematics), focusing on individual-level causes and remedies for obesity risks displacing researcher time, financial resources, and journal pages from deeper thinking and in-depth research about what caused the obesity epidemic, about s-frame interventions to reverse it, and about how to marshal behavioral science to help make such interventions successful. Misattributing problems to individual weakness rather than systemic factors also implicitly blames individuals – and encourages them to blame themselves – for their inability to swim against powerful currents they have little hope of resisting. In fact, studies showed that health problem caused by eating too much can't be explain and solved at the individual level but are directly linked with the s-frame (Brownell and Warner (2009) ;Volpp et al., (2008) ; Charness & Gneezy, (2009)).
+To sum up, the initial study only finds a correlation between eating more and being with more people. But why we observe this correlation is not as clear as the authors of “Nudge” suggest - there are several possible causal explanations and future studies are needed.
 
-# Contagious obesity?
+# Is your obesity your friends' fault?
 
 ::: author
 By: Adèle
@@ -100,7 +113,21 @@ By: Adèle
 “obesity is contagious; you’re more likely to be overweight if you have a lot of overweight friends” (p.64)
 :::
 
+**Context**: The authors stated this to demonstrate the importance of social influence over us and more precisely our health in that case.
+
 -   There is a confounder, you and your friends are all living in the same country and the same city. Thus, you are subject to the same obesity characteristics, in fact, there is strong evidence that people who migrate often take on the obesity characteristics of their new locality [@schulz2006].
 -   Moreover, obesity “i-frame interventions have proven disappointing” [@chaterIframeSframeHow2023] . Indeed, s-frame interventions are way more powerful than a nudge and self-incentives regarding obesity. Therefore, even if there is a nudge that with overweight friends you will be more likely to be overweight it is minimal regarding the country's influence.
 -   Moreover, there is another confounder, everything is pushing us to be overweight, mostly due to the “food industry and agribusiness relentlessly lobby\[ing\] at the s-frame” [@barrett2004] to make sure that states do not decrease people's consumption of processed food, because consumption of them make them gain money.
 
+# Do people change their minds easily depending on others?
+
+::: author
+By: Louise
+:::
+
+::: highlight-quote
+“People become more likely to conform when they know that other people will see what they have to say. Sometimes people will go along with the group even when they think, or know, that everyone else has blundered.”(p.57)
+:::
+
+-   Asch conformity experiments were a series of studies that examined how individuals were influenced by a majority group and the effect of such influences on beliefs and opinions. The exercise comprises a series of straightforward questions. Some actors respond in a manner that is demonstrably incorrect, while another individual is unaware of the fact that the others are actors. Having actors giving the wrong answer made the participant also give the wrong answer, even though they knew it was not correct. Two explanations have been proposed for this phenomenon: perceptual modification of the participant and conformism.
+-   The prevalent explanation seems to be conformism. Indeed, when people respond in private or when some other people give the true answer, they are less following others, and stick to their first opinion. In reality, the majority of people adhere to the majority opinion, although they are generally aware of the situation. They do not act in a blind manner and are aware of the implications of their action. They follow the herd but not blindly [@mercier2017].

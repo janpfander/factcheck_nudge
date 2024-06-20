@@ -3,6 +3,14 @@ title: 6 Save More Tomorrow
 bibliography: ../references.bib
 ---
 
+::: callout-note
+Chapter 6 explores a behavioral intervention aimed at increasing retirement savings. Richard H. Thaler and Cass R. Sunstein describe the Save More Tomorrow (SMarT) program, which they designed to help individuals overcome the common challenge of inadequate retirement savings.
+The main idea of the SMarT program is to prioritize behavioral economics principles, recognizing that people are often resistant to making immediate changes but are more open to committing to future adjustments. The program encourages employees to pre-commit to allocating a portion of their future salary increases towards their retirement savings. 
+Firstly, inertia plays a significant role, as people tend to stick with default options. By automatically increasing contributions with each salary raise, the program takes advantage of this tendency, ensuring that employees continue to save more over time. Secondly, loss aversion, the concept that people are more sensitive to losses than gains, is addressed by timing the increase in contributions with salary raises. This approach ensures that employees do not perceive a reduction in their take-home pay, making them more comfortable with saving more. Lastly, the program helps with self-control issues by avoiding present-biased preferences, where immediate consumption is often prioritized over long-term savings. By committing to future savings, employees can better align their actions with their long-term financial goals
+In summary, "Save More Tomorrow" offers a practical solution to improve retirement savings by leveraging human behavioral tendencies.
+(by Ambre, Micaela, Candice & Lou-Anne)
+:::
+
 # Can saving strategies solve retirement problems?
 
 ::: author
@@ -19,15 +27,18 @@ Some solutions proposed by [@CNBC, how social security works] to fix social secu
 # Do employees throw away retirement money?
 
 ::: author
-By: Ambre, Fitia, Eric & Andriana
+By: Ambre & Careylha
 :::
 
 ::: highlight-quote
 “One extreme example comes from the United Kingdom, where some defined-benefit plans do not require any employee contributions and are fully paid for by the employer. They do require employees to take action to join the plan. Data on twenty-five such plans reveal that scarcely half of the eligible employees (51 percent) signed up! 4 This is equivalent to not bothering to cash your paycheck.” (p.108)
 :::
 
-We can actually explain this better with multiple arguments according to [@Theinvestopediateam,MelodyBell,MichaelRoseston.2024]
+We can actually explain this better with multiple arguments(https://www.investopedia.com/terms/m/mutualfund.asp)
 
--   First of all, most employers switched to defined-contribution plans (DC) instead of defined-benefit plans (DB) because they were less costly for the employer and presented less risks. In fact, in a DB, the employee has no control over the benefits and the result is very uncertain, which can deter them from signing up.
--   Secondly, when enrolled in a DB, employees struggle to change jobs while keeping their benefits because they are directly linked to their employer by that plan. Changing jobs would compromise the benefits of their DB.
--   Thirdly, DB plans are hard to put in place in small firms and there are federal regulations on the number of DB that can be attributed to employees. And last but not least, DB plans are not accessible to everybody. For example, in the US, only 25% of employees have access to them and most of those employees are in the public sector [@CongressionalResearchService.2022]. Even though most of the 25% of employees who have access to defined-benefit plans do participate, the global participation rate is relatively low. Therefore one of the major point why people don’t enroll in DB is likely because they can’t access them. So, overall, not enrolling in a DB is not like “not bothering to cash a paycheck” and can not be explained by just a lack of will. There are risks and limits to this type of plan.
+-   First, most employers switched to defined-contribution plans (DC) instead of defined-benefit plans (DB) because they were less costly for the employer and presented less risks. In fact, in a DB, the employee has no control over the benefits and the result is very uncertain, which can deter them from signing up.
+
+-   Second, when enrolled in a DB, employees struggle to change jobs while keeping their benefits because they are directly linked to their employer by that plan. Changing jobs would compromise the benefits of their DB.
+
+Today, it seems that [most of the 25% of employees who have access to defined-benefit plans do participate](https://crsreports.congress.gov/product/pdf/R/R47152). Note that  DB plans are not accessible to everybody. Therefore, globally  the major reason for  why people don’t enroll in DB is because they are not elligible. So, for the vast majority of people,  not enrolling in a DB is not like “not bothering to cash a paycheck” and can not be explained by just a lack of will.
+

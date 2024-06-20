@@ -3,6 +3,10 @@ title: 7 Naïve Investing
 bibliography: ../references.bib
 ---
 
+::: callout-note
+This chapter explain the vision of the author on how to invest money. The author give hints on where to invest, the risks to take, the dangerousity of investing in its own company, its opinion on retirement plans and so on. He developped on how nudges and choice architecture impact investors choices, such as default investment plans (by Guilhem)
+:::
+
 # People invest in mutual funds
 
 ::: author
@@ -13,26 +17,23 @@ Gaspard & Lou-Anne
 “In retirement accounts, most investors do not choose stocks individually but rather invest via mutual funds." (p.119)
 :::
 
-- It’s actually true. 
-- It’s hard to find actual numbers as the number of people investing in mutual funds fluctuate with the market and as it exists many mutual funds. However, authors agree on their popularity. 
-- Also, we can find numbers on a specific kind of investment, for example, according to the federal reserve, 36% of retirement savings come at least from IRA which is a mutual fund. At first place, with 55% comes defined contribution plans which are retirement plans where the employer, employee, or both make regular contributions of specified amounts. Many popular plans are defined contribution plans, such as the 401(k), 457, and 403(b) plans. Mutual funds are the most common investment option offered in 401(k) plans. 
-- "Mutual funds are the cornerstone of retirement savings in the United States. Their hands-off approach to investment management and their built-in diversification have made them a popular choice among retirement investors."
+-   It’s hard to find actual numbers as the number of people investing in mutual funds fluctuate with the market and as it exists many mutual funds.
+-   However, the claim seems to be broadly accurate
+-   In the fact-check, I focus on a specific kind of investment, namely retirement fonds. According to the federal reserve, 36% of retirement savings come at least from IRA which is a mutual fund. At first place, with 55% comes defined contribution plans which are retirement plans where the employer, employee, or both make regular contributions of specified amounts. Many popular plans are defined contribution plans, such as the 401(k), 457, and 403(b) plans. Mutual funds are the most common investment option offered in 401(k) plans.
+-   We also found that investors' choices also depend a lot on individuals profils, most notably their income level and age that greatly influence their decisions, according to a paper published in the Journal of consumer affairs by Hazel Bateman & al. This study show that the reaction of retirement savers to risk and return attributes differed significantly across our sample and was related to age and income level In addition, investors typically compared nearby investment options when deciding on their most preferred choice and displayed cross-effects consistent with their taste for net returns and their degree of risk aversion.
 
-# People invest in mutual funds
+**References** https://www.federalreserve.gov/publications/2024-economic-well-being-of-us-households-in-2023-retirement-investments.htm https://www.investopedia.com/terms/m/mutualfund.asp https://onlinelibrary.wiley.com/doi/full/10.1111/j.1745-6606.2010.01178.x?casa_token=RSi15EK4J28AAAAA%3ACIhkGUK3tK4V_DkqT6VrtpaRW_a7RCBQypMQmgoldEzHAIscvb-uTadtJ_CbQZeqPw_nYRZW9t-00Q
+
+# Auto-enrolment to achieve adequate saving rates
 
 ::: author
 Guilhem & Anouk
 :::
 
 ::: highlight-quote
-“Expect Error
-To help those who would not get it together to join, we encourage automatic enrollment, which we would combine with Save More Tomorrow to help people achieve an adequate savings rate. For those who did not invest in a life-cycle fund, we would recommend offering an automatic rebalancing plan so that a participant’s asset allocation would be adjusted over time” (p.130)
+“Expect Error To help those who would not get it together to join, we encourage automatic enrollment, which we would combine with Save More Tomorrow to help people achieve an adequate savings rate. For those who did not invest in a life-cycle fund, we would recommend offering an automatic rebalancing plan so that a participant’s asset allocation would be adjusted over time” (p.130)
 :::
 
-Auto-enrollment and auto-escalation are among the most ingenious and elegant i-frame interventions in any domain. Yet their impact has been disappointing, despite often being seen as
-the major success story for behavioral public policy. David Laibson, once a leading advocate of i-frame solutions, concluded in a 2020 keynote that neither auto-enrollment nor auto-escalation have moved the needle on retirement saving.
+Auto-enrollment and auto-escalation are among the most ingenious and elegant i-frame interventions in any domain. Yet their impact has been disappointing, despite often being seen as the major success story for behavioral public policy. David Laibson, once a leading advocate of i-frame solutions, concluded in a 2020 keynote that neither auto-enrollment nor auto-escalation have moved the needle on retirement saving [@chaterIframeSframeHow2023]
 
-First, even without auto-enrollment, many employees end up enrolling in the firms’ retirement plans; auto-enrollment only slightly accelerates the process (Choi, Laibson, Madrian, & Metrick, 2004). Second, and more significant, is the problem of “leakage” (Argento, Bryant, & Sabelhaus, 2015): Employees often remove funds from retirement savings accounts, for example, when changing jobs, or borrow at low interest rates using their retirement balances as loan collateral. Third, auto-enrollment cannot help the many workers at companies which don’t offer matches or provide no plan at all. Surtout les petites entreprises https://fr.kamiltaylan.blog/erisa/#Considerations_particulieres “ERISA's complex rules discourage some small business owners from creating retirement accounts for their employees.”
-
-
-
+First, even without auto-enrollment, many employees end up enrolling in the firms’ retirement plans; auto-enrollment only slightly accelerates the process [@choi2004].Second, and more significant, is the problem of “leakage” : Employees often remove funds from retirement savings accounts, for example, when changing jobs, or borrow at low interest rates using their retirement balances as loan collateral [@argento2015]. Third, auto-enrollment cannot help the many workers at companies which don’t offer matches or provide no plan at all, which is especially true in the small companies and firms. Auto-enrollment in retirement plans fails to benefit workers at companies that do not offer matching contributions or any retirement plans at all, a problem particularly prevalent among small businesses. This limitation highlights the need for broader solutions to increase retirement savings participation among employees in small firms ([The Pew Charitable Trusts, 2017](https://www.pewtrusts.org/en/trend/archive/summer-2017)).

@@ -3,21 +3,50 @@ title: 2 Resisting Temptation
 bibliography: ../references.bib
 ---
 
+::: callout-note
+This chapter explains how nudges help manage temptation by altering environments to guide better decisions. The concept of dynamic inconsistency shows that people often choose immediate gratification over long-term benefits, even against their initial preferences. Recognizing this, nudges can effectively curb immediate temptations and improve long-term outcomes. Effective self-control often requires external help, and well-designed nudges can bridge the gap between our impulsive actions and our goals  (by Marion S.)
+:::
+
 # People don't eat Popcorn endlessly
 
 ::: author
-By: Sophia & Marion
+By: Sophia & Marion S.
 :::
 
 ::: highlight-quote
-“A few years ago, Brian Wansink and his colleagues ran an experiment in a Chicago movie theater in which moviegoers found themselves with a free bucket of stale popcorn? (It had been popped five days earlier and stored so as to ensure that it would actually squeak when eaten.) People were not specifically informed of its staleness, but they didn't like the popcorn. As one moviegoer said, "It was like eating Styrofoam packing peanuts." In the experiment, half of the moviegoers received a big bucket of popcorn and half received a medium-sized bucket. On average, recipients of the big bucket ate about 53 percent more popcorn-even though they didn't really like it. After the movie, Wansink asked the recipients of the big bucket whether they might have eaten more because of the size of their bucket. Most denied the pos-sibility, saying, "Things like that don't trick me." But they were wrong.”  (p.43)
+“A few years ago, Brian Wansink and his colleagues ran an experiment in a Chicago movie theater in which moviegoers found themselves with a free bucket of stale popcorn? (It had been popped five days earlier and stored so as to ensure that it would actually squeak when eaten.) People were not specifically informed of its staleness, but they didn't like the popcorn. As one moviegoer said, "It was like eating Styrofoam packing peanuts." In the experiment, half of the moviegoers received a big bucket of popcorn and half received a medium-sized bucket. On average, recipients of the big bucket ate about 53 percent more popcorn-even though they didn't really like it. After the movie, Wansink asked the recipients of the big bucket whether they might have eaten more because of the size of their bucket. Most denied the pos-sibility, saying, "Things like that don't trick me." But they were wrong.” (p.43)
 :::
 
-- In his study Wansink doesn’t specify what effect was produced by the fact that popcorn was free
-- Several studies of Wansink have been retracted and Wanink was accused of p-hacking. In the study about popcorn one of the reference article is “Super Bowls: Serving Bowl Size and Food Consumption” that has been retracted due to several reasons: investigation by company/institution, investigation by journal/publisher, misconduct, official Investigation/finding, misconduct by author, unreliable data, unreliable results, upgrade/update of prior notice.More than 40 works of Wansick were retracted.
-- Errors were discovered in six other articles published by members of the Cornell Food and Brand Lab. 
-Seventeen other articles authored or co-authored by Wansink have been retracted.
+-   In his study [“Bad Popcorn in Big Buckets”](https://doi.org/10.1016/S1499-4046(06)60278-9) Wansink doesn’t specify what effect was produced by the fact that popcorn was free
 
-  In September 2018, Cornell determined that Wansink had committed scientific misconduct and removed him from all teaching and research positions; he was only allowed to assist in investigations of his published work. He also resigned from the university, effective June 30, 2019.
+-   Several studies of Wansink have [been retracted](http://retractiondatabase.org/(X(1)S(ll31ceb4btar0pwmkmgazxtg))/RetractionSearch.aspx?AspxAutoDetectCookieSupport=1#?AspxAutoDetectCookieSupport%3d1%26auth%3dWansink%252c%2bBrian) and Wanink was accused of p-hacking. In the study about popcorn one of the reference article is “Super Bowls: Serving Bowl Size and Food Consumption” that has [been retracted](http://retractiondatabase.org/(X(1)S(ll31ceb4btar0pwmkmgazxtg))/RetractionSearch.aspx?AspxAutoDetectCookieSupport=1#?AspxAutoDetectCookieSupport%3d1%26auth%3dWansink%252c%2bBrian) due to several reasons: investigation by company/institution, investigation by journal/publisher, misconduct, official Investigation/finding, misconduct by author, unreliable data, unreliable results, upgrade/update of prior notice. More than 40 works of Wansick were retracted.
 
+-   Errors were discovered in six other articles published by members of the Cornell Food and Brand Lab. 17 other articles authored or co-authored by Wansink have been retracted.
+
+In September 2018, Cornell determined that Wansink had committed scientific misconduct and removed him from all teaching and research positions; he was only allowed to assist in investigations of his published work. He also resigned from the university, effective June 30, 2019.
+
+Thus, given the sum of the factors, we can conclude that the article “Bad Popcorn in Big Buckets” fails to consider the fact that popcorn was free, that could have possibly influenced the results, plus its references contain a retracted article. 
+
+# Street lights and energy savings
+
+::: author
+By: Nour
+:::
+
+::: highlight-quote
+“Along with having more time to enjoy an evening softball game, we end up saving energy too.” (p.47)
+:::
+
+**Context**: In this chapter, the author implies that saving daylight time is somehow a nudge. He affirms that people enjoy having more time in their day and quote statistical studies proving it. 
+
+There are several things that cause an issue here:
+
+- The author makes it sound like everyone benefits from this decision, and the tone suggests that people, individually, have better energy consumption. However, it is not our personal consumption of energy that is affected, only street lighting.
+- Moreover, the fact that we save energy is not really true anymore. When it was first implemented (WWI, then in 1973), it indeed allowed saving. However practically all light bulbs in the street have been replaced by low consumption ones. In fact, a study even showed that the result obtained is the opposite of what we were trying to have: “Existing simulations suggest that DST increases electricity consumption on average over 224 different locations throughout the United States”
+
+To conclude, with daylight savings, we - as citizens - do not save energy, and neither does the government.
+
+**References**
+
+- Kotchen, M. J., & Grant, L. E. (2011). Does Daylight Saving Time Save Energy? Evidence from a Natural Experiment in Indiana. Review of Economics and Statistics, 93(4), 1172‑1185. https://doi.org/10.1162/REST_a_00131
 

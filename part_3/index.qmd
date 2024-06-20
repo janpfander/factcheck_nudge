@@ -3,9 +3,5 @@ title: III HEALTH
 ---
 
 ::: callout-note
-This section is much under construction currently.
+For some chapters, you'll find short summaries at the top.
 :::
-
-## Basic summary of the chapter
-
-Sum up main points of the chapter and the fact checks

@@ -3,9 +3,6 @@ title: V EXTENSIONS AND OBJECTIONS
 ---
 
 ::: callout-note
-This section is much under construction currently.
+Unfortunately, we did not get to fact-check this part of the book. Sorry :(
 :::
 
-## Basic summary of the chapter
-
-Sum up main points of the chapter and the fact checks

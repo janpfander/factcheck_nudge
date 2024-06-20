@@ -3,27 +3,64 @@ title: 4 When Do We Need a Nudge?
 bibliography: ../references.bib
 ---
 
-# Do we need a nudge when we can't practice?
+# Nudges and practice
 
 ::: author
-By: Eric, Andriana, Fitia
+By: Careylha
 :::
 
 ::: highlight-quote
-“Even hard problems become easier with practice… Unfortunately, some of life’s most important decisions do not come with many opportunities to practice… Generally, the higher the stakes, the less often we are able to practice.
-None of this is to say that the government should be telling people whom to marry or what to study. This is a book about libertarian paternalism. At this stage we just want to stress that rare, difficult choices are good candidates for nudges.”(p.74-75)
+“Even hard problems become easier with practice… Unfortunately, some of life’s most important decisions do not come with many opportunities to practice… Generally, the higher the stakes, the less often we are able to practice. None of this is to say that the government should be telling people whom to marry or what to study. This is a book about libertarian paternalism. At this stage we just want to stress that rare, difficult choices are good candidates for nudges.”(p.74-75)
 :::
 
 The author's main argumentative structure here is to prove that rare and difficult choices are good candidates for nudges. To justify this, he uses the following argument:
-- if A: practice
-- then B: decision-making is better
-- not A then not B: then nudges
 
-if A then B: in fact, it's been proven time and again that practices make perfect. Indeed, it has been scientifically proven unsurprisingly, practicing a new skill does have an important role in the learning process [@Ericsson, K. Anders, Ralf Th. Krampe.1993]. A better knowledge of a subject, or a better mastery of it, does indeed facilitate an individual's decision-making.
-The author's argumentative structure exposes a flaw in logic, relying on the premise "not A then not B therefore nudges." The primary issue lies in the lack of explanation regarding why nudges are deemed necessary when practice is impossible. While the author elaborates on how increased practice leads to better mastery and decision-making, particularly in complex situations like job or university decisions, they fail to address the fundamental question: "Why does a situation lacking repetition automatically require the implementation of nudges?" Without a clear demonstration of the link between the absence of practice and the necessity of nudges, the author's argument loses validity. 
-Indeed, there exist numerous scenarios where individuals make decisions without prior practice or external nudges. Consider, for instance, the task of choosing a present for a friend, a situation unfamiliar to many. Despite lacking experience in this specific decision-making process, individuals often rely solely on their knowledge of the friend's preferences and interests, bypassing the need for external guidance or nudges.
-While the author emphasizes the benefits of practice for better decision-making, they overlook the fact that individuals are capable of making informed choices even in situations devoid of practice, rendering the automatic reliance on nudges unnecessary and unsubstantiated.
+\- if A: practice
 
-Furthermore, the author lacks precision in their statements. Towards the end of their argumentation, they generalize from specific cases like marriage and educational decisions to a general judgment. They argue that nudges are necessary in complex situations, but they don’t take the time to define what is meant by complex situations. 
+\- then B: decision-making is better
 
+\- not A then not B: then nudges
 
+But:
+
+-   if A then B: in fact, it's been proven time and again that practices make perfect. Indeed, it has been scientifically proven unsurprisingly, practicing a new skill does have an important role in the learning process [@ericsson1993]. A better knowledge of a subject, or a better mastery of it, does indeed facilitate an individual's decision-making.
+-   The author's argumentative structure exposes a flaw in logic, relying on the premise "not A then not B therefore nudges." The primary issue lies in the lack of explanation regarding why nudges are deemed necessary when practice is impossible. While the author elaborates on how increased practice leads to better mastery and decision-making, particularly in complex situations like job or university decisions, they fail to address the fundamental question: "Why does a situation lacking repetition automatically require the implementation of nudges?" Without a clear demonstration of the link between the absence of practice and the necessity of nudges, the author's argument loses validity. 
+-   Indeed, there exist numerous scenarios where individuals make decisions without prior practice or external nudges. Consider, for instance, the task of choosing a present for a friend, a situation unfamiliar to many. Despite lacking experience in this specific decision-making process, individuals often rely solely on their knowledge of the friend's preferences and interests, bypassing the need for external guidance or nudges.
+-   While the author emphasizes the benefits of practice for better decision-making, they overlook the fact that individuals are capable of making informed choices even in situations devoid of practice, rendering the automatic reliance on nudges unnecessary and unsubstantiated.
+-   Furthermore, the author lacks precision in their statements.They argue that nudges are necessary in complex situations, but they don’t take the time to define what is meant by complex situations.
+-   Lastly, this advice raises a major question, which is: “to which extent is it ethical to uses nudges to guide an individual in a situation ?” Indeed, through its argumentation, the author lacks precision on the ethical aspect of nudges. He focuses the reader's opinion on the concept of the complex situation rather than on the real ethical question of the latter.
+
+# Self-control
+
+::: author
+By: Anaïs & Sarah
+:::
+
+::: highlight-quote
+“We have seen that predictable problems arise when people must make decisions that test their capacity to self-control.”
+:::
+
+Self-control is the ability to manage one’s thoughts, emotions, impulses and behavior to achieve long-term goals. What is important to keep in mind is that self-control is not stable, and it fluctuates all the time.\
+There are different types of self-control: - Impulse control: it is the faculty to be able to stop and think before doing something - Emotional control: it is the ability to control feelings\
+- Self-control of concentration: the capacity to stay focus for a certain period of time
+
+On the one hand, we could compare self-control to some limited resource or energy, such that engaging self-control quickly consumes our inner capacity, leaving us in a state of “ego depletion”. In this depleted state, further attempts at self-control are prone to failure. When we engage in a motivationally demanding activity at time 1, performance typically deteriorates on a different task at time 2, which could explain why we fail.
+
+Self-control failure can also be about the motivated switching of task priorities from “have-to” to “want-to”. An example could be thinking about stopping smoking. When you have a lack of self-control, you will probably go from “I have to stop smoking” to “I want to stop smoking”. This way, you will keep this idea of stopping smoking, but pushing back this idea. Delaying gratification is also an important part of self-control, it is the ability to wait to get what you want. Delayed gratification means setting aside short-term desires in favor of long-term rewards. In this sense, self-control is not a guarantee of success in anything, because of this process by which we can change the order of our priorities.
+
+However, Inzlicht, Schmeichel and Macrae question the concept of a limited resource in "Why self-control seems (but may not be) limited"(https://psycnet.apa.org/record/2014-07542-008). According to them, this vision (seeing self-control as a limited resource) could be simplistic and doesn’t consider the complexity of this concept. But, several studies highlight the influence of different factors ( beliefs, social expectations, psychological state of mind) on the exhaustion of self-control. Therefore considering self-control as a limited resource seems to be right.
+
+::: highlight-quote
+“For investment goods, most people err on the side of doing too little.”
+:::
+
+The author's point of view is that most people lack self-control. But it is more complex than this.
+
+Exerting self-control also represents costs to bear and sacrifices for one. Tradeoffs need to be made. For example, if you are very tired, it would be less easy to exert self-control and continue doing your homework than if you are not really tired (http://homepages.se.edu/cvonbergen/files/2013/01/Is-There-a-Downside-to-Good-Self-control_2009-annotated.pdf).
+
+We should thus keep in mind that the exhaustion of self-control is influenced by many factors such as how costly it is and what environment we are in - it is different among individuals.\
+Why do some people have more self-control than others? Self-control is not primarily about restraining oneself from certain behaviors but rather about directing one’s actions towards specific goals. When you have a goal, it will be easier to resist temptations and inhibit impulses. In his article entitled “Self-Control: A function of Knowing What to Do, Not Knowing What Not to Do”, Fujita introduces the concept of “goal activation” as a key mechanism underlying self-control. He suggests that by focusing on goal activation rather than inhibition, we could develop more effective strategies for improving self-control and achieving desired outcomes.
+
+"We emphasize the idea that the present-oriented behaviors of the constellation are a contextually appropriate response to structural and ecological factors rather than a pathology or a failure of willpower. "(https://pubmed.ncbi.nlm.nih.gov/28073390/). This quote suggests that self-control is not random and can be influenced by socioeconomic status, because individuals with a lower socioeconomic status will tend to maximize early benefits rather than future ones. In addition, since they are already limited in terms of resources, self-control is not even necessary.
+
+So, we cannot give an answer to the question: Do people lack self-control? The reason why is the fact that it depends on multiple factors, such as motivation, social influences, the environment we are in and more. Nudge might be a way to give strength for people lacking in self-control.

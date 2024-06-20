@@ -3,32 +3,85 @@ title: 15 Privatizing Marriage
 bibliography: ../references.bib
 ---
 
-# Are women worse off after a divorce than men?
+::: callout-note
+The chapter emphazises the need to rethink choice architecture to better protect the most vulnerable, often women and children. In the current confusing and arbitrary system, this economic reality underscores the argument for creating clear and fair default rules to ensure equitable distribution of resources and obligations. The suggested nudges could help mitigate these economic disparities by providing greater protection for women after a separation. (by Philibert)
+:::
+
+# Economic prospects after divorce
 
 ::: author
 By: Philibert
 :::
 
 ::: highlight-quote
- “A woman’s economic prospects fall after divorce, whereas the prospects of the man increase.”(p.235)
+“A woman’s economic prospects fall after divorce, whereas the prospects of the man increase.”(p.235)
 :::
 
-The previous claim has been supported by various studies and research:
-- Economic Impact on Women: Numerous studies have shown that women often experience a significant decline in their standard of living following a divorce. For example, a study by the U.S. Government Accountability Office (GAO) found that women's household income fell by an average of 41% after divorce, whereas men's household income decreased by only about 23%. Other research suggests that women are more likely to face economic hardship post-divorce due to factors like lower average earnings, career interruptions, and a greater likelihood of having primary custody of children.
-- Economic Impact on Men: Men typically fare better economically after a divorce. While they also experience a decrease in household income, it is usually less severe compared to women. Additionally, men often have higher average incomes and greater career continuity, which helps mitigate the financial impact of divorce. Some studies even suggest that men's economic prospects can improve post-divorce as they may have fewer household expenses and obligations.
+**Context**: The following quotation comes from the section Nudging couples of the chapter 15 Privitizing marriages. The section highlights the need to rethink choice architecture to better protect the most vulnerable, often women and children. In the current confusing and arbitrary system, this economic reality underscores the argument for creating clear and fair default rules to ensure equitable distribution of resources and obligations. The suggested nudges could help mitigate these economic disparities by providing greater protection for women after a separation.
+
+The previous claim has been supported by various studies and research: Numerous studies have shown that women often experience a significant decline in their standard of living following a divorce. For example, a study by the U.S. Government Accountability Office (GAO) found that women's household income fell by an average of 41% after divorce, whereas men's household income decreased by only about 23%. Other research suggests that women are more likely to face economic hardship post-divorce due to factors like lower average earnings, career interruptions, and a greater likelihood of having primary custody of children [@avellar2005].
+
+Besides,men typically fare better economically after a divorce. While they also experience a decrease in household income, it is usually less severe compared to women. Additionally, men often have higher average incomes and greater career continuity, which helps mitigate the financial impact of divorce [@mcmanus2001]. Some studies even suggest that men's economic prospects can improve post-divorce as they may have fewer household expenses and obligations [@mcmanus2001].
 
 However, there are also some studies and perspectives that offer a more nuanced view or contradict the claim that women's economic prospects always fall and men's always rise after divorce.
 
-- Research by Avellar and Smock (2005): While acknowledging that women generally face economic declines post-divorce, their research also points out that the extent of economic hardship can vary significantly based on factors such as employment status, educational attainment, and presence of children.
-- Studies on Economic Independence and Dual-Earner Couples: Some research suggests that in households where both spouses are earners, the economic impact of divorce can be less severe for women. For instance, women with stable, well-paying jobs and higher educational levels may experience less financial decline after divorce.
-- Variations Based on Geographical and Social Contexts: Studies indicate that the economic outcomes of divorce can vary significantly depending on the country and social safety nets available. For example, in Scandinavian countries with robust social welfare systems, the economic impact on women post-divorce may be mitigated.
-- Emerging Trends and Changing Gender Roles: There is evidence that changing gender roles and increasing economic independence of women are altering the traditional economic impacts of divorce. More recent studies show that as women’s labor force participation increases and wage gaps decrease, the financial disparity between divorced men and women may lessen.
+First, while acknowledging that women generally face economic declines post-divorce, their research also points out that the extent of economic hardship can vary significantly based on factors such as employment status, educational attainment, and presence of children [@mckeever2001].
 
-These studies suggest that while the general trend has been for women to face more significant economic challenges post-divorce, there are important variations based on employment, education, social policies, and evolving gender roles that can alter these outcomes.
+Moreover, some research suggests that in households where both spouses are earners, the economic impact of divorce can be less severe for women. For instance, women with stable, well-paying jobs and higher educational levels may experience less financial decline after divorce [@avellar2005].
 
+Studies also indicate that the economic outcomes of divorce can vary significantly depending on the country and social safety nets available. For example, in Scandinavian countries with robust social welfare systems, the economic impact on women post-divorce may be mitigated [@andreß2006].
 
+Lastly, there is evidence that changing gender roles and increasing economic independence of women are altering the traditional economic impacts of divorce. More recent studies show that as women’s labor force participation increases and wage gaps decrease, the financial disparity between divorced men and women may lessen [@smock1999].
 
+To conclude, These studies suggest that while the general trend has been for women to face more significant economic challenges post-divorce, there are important variations based on employment, education, social policies, and evolving gender roles that can alter these outcomes.
 
+# Are covenant married couples more traditional?
 
+::: author
+By: Ambre & Candice
+:::
 
+::: highlight-quote
+"Only about 1–3 percent of couples choose covenant marriage when it is available, and not surprisingly, couples who choose that option tend to be religious and to have a traditional view of marriage, child rearing, and divorce."
+:::
+
+Marriage by covenant is seen as a means of controlling individual impulses to make couples last and create stability within the family. Yet it is becoming easier and easier to leave this “contract”.
+
+This part of the book is based on a study by Steven L. Nock et al titled ‘Covenant Marriage Turns Five Years Old’ published in 2003. In this paper, the authors describe their study that was conducted by surveying 536 couples (241 covenant married couples and 295 standard married couples).
+
+In the initial study, they found that 10% of standard couples would have wanted a covenant marriage which does not correspond to what is said in “Nudge “(1/3%). They also found that 30% of standard married couples did not care about what kind of marriage they had while only 3/9% of covenant couples said that.
+
+They found that overall covenant married couples were more religious than standard married ones : 20% of covenant married couples met each other at church while only 6% of standard married couples met that way. Moreover, they found that covenant married couples were more likely to pray more often and to go to church more frequently.
+
+However, there is a difference in the religions of people in standard marriages and in covenant couples. Catholic couples choose standard marriage more (30% of standard couples are catholic and 6/9% of covenant married couples are catholic) and Baptist, Protestant couples tend to choose covenant marriages more (1/2 of covenant married couples are Baptist and 1/3 of standard married couples are Baptist). Those differences are not mentioned in Nudge.
+
+The quote in Nudge is partially true, more people choose and want covenant marriage than what is said in the book but they are indeed more traditional and religious.
+
+To add on, there are less covenant marriages nowadays and it is becoming more and more controversial. The rate of covenant marriages in states that allow it is now at 0.5%.
+
+**References** 
+
+- Nock.S & Wilson.J (2013) Covenant Marriage Turns Five Years Old. Michigan Journal of Gender & Law. https://repository.law.umich.edu/mjgl/vol10/iss1/5/
+
+# Does marriage bring benefits? 
+
+::: author
+By: Marion & Angèle
+:::
+
+::: highlight-quote
+“Entitlements. Federal law benefits married couples through a number of entitlement programs. Under the Family and Medical Leave Act, for example, an employer must allow unpaid leave to a worker who seeks to care for a spouse; it need not do so for “partners.”3 State laws often grant similar advantages to members of married couples.”(p.216)
+:::
+
+In fact, the Family and Medical Leave Act does require employers to pay employees who have to look after a sick partner.  «The FMLA entitles eligible employees of covered employers to take unpaid, job-protected leave for specified family and medical reasons with continuation of group health insurance coverage under the same terms and conditions as if the employee had not taken leave. Eligible employees are entitled to: Twelve workweeks of leave in a 12-month period for : [...] to care for the employee’s spouse, child, or parent who has a serious health condition; » https://www.momjunction.com/articles/benefits-of-marriage_00662978/ 
+
+One benefit of marriage could be a better health  “research suggesting that married people enjoy better health than single people”, they tend to “live longer, have fewer strokes and heart attacks, have a lower chance of becoming depressed, be less likely to have advanced cancer at the time of diagnosis and more likely to survive cancer for a longer period of time, survive a major operation more often ” however only one study is quoted “Marriage could improve heart attack survival and reduce hospital stay “ from university of East Anglia. https://www.health.harvard.edu/blog/the-health-advantages-of-marriage-2016113010667
+
+Legal benefits of marriage, such as the “Right To Sue Someone On The Deceased’s Behalf”, or the “Right To Determine Last Rites And Funeral”, there are also financial benefits such as the share of a common bank account, or the Social Security Payouts https://doi.org/10.2139/ssrn.500887.
+
+**References**
+
+- Ribar, D. (2004). What Do Social Scientists Know About the Benefits of Marriage? A Review of Quantitative Methodologies (SSRN Scholarly Paper 500887). https://doi.org/10.2139/ssrn.500887
+- The health advantages of marriage. (2016, novembre 30). Harvard Health. https://www.health.harvard.edu/blog/the-health-advantages-of-marriage-2016113010667
+- Thakur, S. (2020, octobre 13). 38 Legal, Financial And Social Benefits Of Marriage. MomJunction. https://www.momjunction.com/articles/benefits-of-marriage_00662978/
 

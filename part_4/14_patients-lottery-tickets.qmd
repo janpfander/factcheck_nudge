@@ -3,15 +3,10 @@ title: 14 Should Patients Be Forced to Buy Lottery Tickets?
 bibliography: ../references.bib
 ---
 
-# Some title
-
-::: author
-By: Author
+::: callout-note
+Unfortunately, no one fact-checked this chapter. Sorry :(
 :::
 
-::: highlight-quote
-“Some quote” (p.XX)
-:::
 
 
 

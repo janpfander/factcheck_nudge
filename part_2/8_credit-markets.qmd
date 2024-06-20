@@ -23,7 +23,7 @@ Teresa
 
 More recent datas : - The average student is also taking on more debt: the balance per borrower rose by 25 percent from 2009 to 2021, according to U.S. News and World Report. - Explication : Students are generally borrowing more because college tuition has grown many times faster than income.
 
-# Signing without reading
+# Do buyers sign before reading?
 
 ::: author
 Jeanne & Adèle
@@ -35,4 +35,26 @@ Jeanne & Adèle
 
 In order to know whether the author is right, we had to search some studies about this signing-without-reading contract problem:
 
-Most of the studies go in his way. We found one study, in the field of online purchase contracts, that supports the claim that there is a minority of people (0.2%) who read the contract (at least one second) over 48,154 visitors to 90 software companies [@bakos]. Another study found that of over 92 students, only 4% (4/92) read their electronic contracts “as a general matter.”, which mean that they know what is inside [@eigen2011]. However, studies mitigate his statement in showing that it is not the “majority” that do not read the contract. In the study cited before, only 44% of students do not read them at all [@eigen2011]. Moreover, in another study, only 28.9% of the sample did not review the contract at all [@hillman], even if it does mention that the mean time of term contract reading is 80.5 seconds.
+Most of the studies go in his way. We found one study, in the field of online purchase contracts, that supports the claim that there is a minority of people (0.2%) who read the contract (at least one second) over 48,154 visitors to 90 software companies [@bakos]. Another study found that of over 92 students, only 4% (4/92) read their electronic contracts “as a general matter” [@eigen2011]. However, studies mitigate his statement in showing that it is not the “majority” that do not read the contract. In the study cited before, only 44% of students do not read them at all [@eigen2011]. Moreover, in another study, only 28.9% of the sample did not review the contract at all [@hillman], even if it does mention that the mean time of term contract reading is relatively short, \~1min 20 seconds.
+
+# Are people gullible?
+
+::: author
+Marion
+:::
+
+::: highlight-quote
+“Similarly misleading mail solicitations come from private lenders, aimed at a younger audience. Some of these solicitations are hilarious in their absurdity, but apparently they’re effective too”(p.138)
+:::
+
+Context: The rise of the cost of going to college has pushed people to borrow more. But it has put students and their families exposed to sources of fraudulent loans.
+
+The authors state that people are vulnerable to institutions that are trying to rip them off, so I am going to see if people are gullible.
+
+-   In fact multiple commissions had warned the population about those fraud campaign for example The Federal Trade Commission made tracks to warn about scammers who more likely would target borrowers, perhaps posing as U.S. Department of Education personnel
+
+-   People are in fact sometimes being duped, but the fear of people about misinformation is often not justified. “The scientific literature suggest that many of them are Exaggerated” [@altayMisinformationThreatBecause2022]
+
+-   Finally a study demonstrates that even if we could think that we can be influenced by many sources of information, including new digital techniques, we are in fact adapted to critically evaluate information we are exposed to : “Converging evidence reveals that communication is much less influential than often believed” [@mercier2017]
+
+More broadly, according to “The i-frame and the s-frame” article [@chaterIframeSframeHow2023], in the USA sending children to private school is an important financial sacrifice. The fact that people decline public schools to private ones creates a vicious circle. The real danger then shown is the fact that changes from i-level give false hope and prevent systemic change.
